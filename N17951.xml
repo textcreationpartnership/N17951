@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="publishers_advertisement">
-            <pb facs="tcp:023246_0000_0FBEDD7650EB0630"/>
-            <pb facs="tcp:023246_0001_0FBEDD7AF05C7E40"/>
+            <pb facs="unknown:023246_0000_0FBEDD7650EB0630"/>
+            <pb facs="unknown:023246_0001_0FBEDD7AF05C7E40"/>
             <head>BOOKS and PAMPHLETS Lately printed and publiſhed by M. CAREY, No. 118, Market-ſtreet.</head>
             <list>
                <item>I. SERMONS, by HUGH BLAIR,—D. D. complete in two volumes. Price two dollars. ☞ <hi>The Britiſh edition ſells in London for nineteen ſhillings and ſix pence ſterling.</hi>
@@ -124,7 +124,8 @@
                <item>V. The American Jeſt Book—and Merry Fellow's Compa<g ref="char:EOLhyphen"/>nion. Price of each a quarter dollar—price of the two bound together, three fifths of a dollar.</item>
                <item>
                   <p n="6">VI. POEMS by col. Humphreys, containing, among others,
-<pb facs="tcp:023246_0002_0FBEDD7C4F861348" rendition="simple:additions"/>
+<pb facs="unknown:023246_0002_0FBEDD7C4F861348"
+                         rendition="simple:additions"/>
 his addreſs to the armies of the united ſtates—and his poem on the happineſs of America.</p>
                   <p>Price in blue paper a quarter dollar—bound, a third of dollar.</p>
                </item>
@@ -143,7 +144,8 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
             </list>
          </div>
          <div type="title_page">
-            <pb facs="tcp:023246_0003_0FBEDD806A60A5E8" rendition="simple:additions"/>
+            <pb facs="unknown:023246_0003_0FBEDD806A60A5E8"
+                rendition="simple:additions"/>
             <p>THE BEAUTIES OF POETRY, BRITISH AND AMERICAN</p>
             <p>CONTAINING SOME OF THE PRODUCTIONS OF
 <list>
@@ -195,7 +197,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
             <p>PHILADELPHIA: FROM THE PRESS OF M. CAREY. NO. 118, MARKET-STREET. M.DCC.XCI.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:023246_0004_0FBEDD818F8845C8"/>
+            <pb facs="unknown:023246_0004_0FBEDD818F8845C8"/>
             <head>ADVERTISEMENT.</head>
             <p>IN the compilation of this volume, it has been the editor's object, while he provided an elegant fund of rational and innocent entertainment, to fix upon ſuch pieces of poetry as have a tendency to enlarge the underſtanding, and reſine the heart. He only hopes for the public approbation in proportion as he has ſucceeded in this. He has carefully guarded againſt the admiſſion of ſuch productions as might</p>
             <l>"Make Virtue bluſh—give Innocence a fear—</l>
@@ -230,7 +232,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
             </closer>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:023246_0005_0FBEDD833ADF1350"/>
+            <pb facs="unknown:023246_0005_0FBEDD833ADF1350"/>
             <head>CONTENTS.</head>
             <div type="part">
                <p>
@@ -416,7 +418,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <cell>Mrs. Cowley,</cell>
                         <cell>92</cell>
                      </row>
-                     <pb n="vii" facs="tcp:023246_0006_0FBEDD866EF67218"/>
+                     <pb n="vii" facs="unknown:023246_0006_0FBEDD866EF67218"/>
                      <row>
                         <cell>To Anna Matilda,</cell>
                         <cell>Merry,</cell>
@@ -620,7 +622,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <cell>Barlow,</cell>
                         <cell>155</cell>
                      </row>
-                     <pb n="viii" facs="tcp:023246_0007_0FBEDD883A972158"/>
+                     <pb n="viii" facs="unknown:023246_0007_0FBEDD883A972158"/>
                      <row>
                         <cell>American revolution,</cell>
                         <cell>Barlow,</cell>
@@ -817,7 +819,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:023246_0008_0FBEDD890ED299F8"/>
+            <pb facs="unknown:023246_0008_0FBEDD890ED299F8"/>
             <head>BEAUTIES OF POETRY.</head>
             <div n="1" type="part">
                <head>FIRST PART. FROM BRITISH POETS.</head>
@@ -850,7 +852,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Nature affords at leaſt a glimm'ring light;</l>
                   <l>The lines, tho' touch'd but faintly, are drawn right.</l>
                   <l>
-                     <pb n="2" facs="tcp:023246_0009_0FBEDD8A955DE8E0"/>But as the ſlighteſt ſketch, if juſtly trac'd,</l>
+                     <pb n="2" facs="unknown:023246_0009_0FBEDD8A955DE8E0"/>But as the ſlighteſt ſketch, if juſtly trac'd,</l>
                   <l>Is by ill colouring but the more diſgrac'd,</l>
                   <l>So by falſe learning is good ſenſe defac'd.</l>
                   <l>Some are bewilder'd in the maze of ſchools,</l>
@@ -898,7 +900,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Like kings, we loſe the conqueſts gain'd before,</l>
                   <l>By vain ambition ſtill to make them more:</l>
                   <l>
-                     <pb n="3" facs="tcp:023246_0010_0FBEDD8ED78BC178"/>Each might his ſervile province well command,</l>
+                     <pb n="3" facs="unknown:023246_0010_0FBEDD8ED78BC178"/>Each might his ſervile province well command,</l>
                   <l>Would all but ſtoop to what they underſtand.</l>
                   <l>Firſt follow nature, and your judgment fram<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -950,7 +952,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Sure to hate moſt the men from whom they learn'd<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="4" facs="tcp:023246_0011_0FBEDD9120918A28"/>So modern 'pothecaries taught the art.</l>
+                     <pb n="4" facs="unknown:023246_0011_0FBEDD9120918A28"/>So modern 'pothecaries taught the art.</l>
                   <l>By doctors' bills to play the doctor's part,</l>
                   <l>Bold in the practice of miſtaken rules,</l>
                   <l>Preſcribe, apply, and call their maſters fools.</l>
@@ -999,7 +1001,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Some lucky licence anſwer to the full</l>
                   <l>Th' intent propos'd, that licence is a rule.</l>
                   <l>
-                     <pb n="5" facs="tcp:023246_0012_0FBEDD9210699578"/>Thus Pegaſus, a nearer way to take,</l>
+                     <pb n="5" facs="unknown:023246_0012_0FBEDD9210699578"/>Thus Pegaſus, a nearer way to take,</l>
                   <l>May boldly deviate from the common track.</l>
                   <l>Great wits ſometimes may gloriouſly offend,</l>
                   <l>And <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1051,7 +1053,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Hail, bards triumphant! born in happier days;</l>
                   <l>Immortal heirs of univerſal praiſe!</l>
                   <l>
-                     <pb n="6" facs="tcp:023246_0013_0FBEDD93AAD1AF68"/>Whoſe honours with increaſe of ages grow,</l>
+                     <pb n="6" facs="unknown:023246_0013_0FBEDD93AAD1AF68"/>Whoſe honours with increaſe of ages grow,</l>
                   <l>As ſtreams roll down, enlarging as they flow;</l>
                   <l>Nations unborn your mighty names ſhall ſound,</l>
                   <l>And worlds applaud, that muſt not yet be found!</l>
@@ -1095,7 +1097,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </l>
                   <l>Hills peep o'er hills, and Alps on Alps ariſe!</l>
                   <l>
-                     <pb n="7" facs="tcp:023246_0014_0FBEDD971F687760"/>A perfect judge will read each work of wit</l>
+                     <pb n="7" facs="unknown:023246_0014_0FBEDD971F687760"/>A perfect judge will read each work of wit</l>
                   <l>With the ſame ſpirit that its author writ:</l>
                   <l>Survey the whole, nor ſeek ſlight faults to find,</l>
                   <l>Where nature moves, and rapture warms the mind:</l>
@@ -1139,7 +1141,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Produc'd his play, and begg'd the knight's advice<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="8" facs="tcp:023246_0015_0FBEDD9BF38986F8"/>Made him obſerve the ſubject and the plot,</l>
+                     <pb n="8" facs="unknown:023246_0015_0FBEDD9BF38986F8"/>Made him obſerve the ſubject and the plot,</l>
                   <l>The manners, paſſions, unities; what not?</l>
                   <l>All which, exact to rule, were brought about,</l>
                   <l>Were but a combat in the fiſts le<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1212,7 +1214,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Clears and improves whate'er it ſhines upon;</l>
                   <l>It gilds all objects, but it alters none.</l>
                   <l>
-                     <pb n="9" facs="tcp:023246_0016_0FBEDD9D632F5300"/>Expreſſion is the dreſs of thought, and ſtill</l>
+                     <pb n="9" facs="unknown:023246_0016_0FBEDD9D632F5300"/>Expreſſion is the dreſs of thought, and ſtill</l>
                   <l>Appears more decent as more ſuitable;</l>
                   <l>A vile conceit, in pompous words expreſs'd,</l>
                   <l>Is like a clown in regal purple dreſs'd;</l>
@@ -1258,7 +1260,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Leave ſuch to tune their own dull rhymes, and know</l>
                   <l>What's roundly ſmooth, or languiſhingly ſlow;</l>
                   <l>
-                     <pb n="10" facs="tcp:023246_0017_0FBEDD9ED8763500"/>And praiſe the eaſy vigour of a line,</l>
+                     <pb n="10" facs="unknown:023246_0017_0FBEDD9ED8763500"/>And praiſe the eaſy vigour of a line,</l>
                   <l>Where Denham's ſtrength and Waller's ſweetneſs join<g ref="char:punc">▪</g>
                   </l>
                   <l>True eaſe in writing comes from art, not chance,</l>
@@ -1304,7 +1306,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>But ripens ſpirits in cold northern climes<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="11" facs="tcp:023246_0018_0FBEDDA224C4B458"/>Which from the firſt has ſhone on age<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="11" facs="unknown:023246_0018_0FBEDDA224C4B458"/>Which from the firſt has ſhone on age<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> paſt,</l>
                   <l>Enlights the preſent, and ſhall warm the laſt;</l>
@@ -1349,7 +1351,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Faith, goſpel, all ſeem'd made to be diſputed,</l>
                   <l>And none had ſenſe enough to be confuted:</l>
                   <l>
-                     <pb n="12" facs="tcp:023246_0019_0FBEDDA6F973AC10"/>Scotiſts and Thomiſts now in peace remain</l>
+                     <pb n="12" facs="unknown:023246_0019_0FBEDDA6F973AC10"/>Scotiſts and Thomiſts now in peace remain</l>
                   <l>Amidſt their kindred cobwebs in Duck-lane.</l>
                   <l>If faith itſelf has diff'rent dreſſes worn,</l>
                   <l>What wonder modes in wit ſhould take their turn!</l>
@@ -1393,7 +1395,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>So when the faithful pencil has deſign'd</l>
                   <l>Some bright idea of the maſter's mind,</l>
                   <l>
-                     <pb n="13" facs="tcp:023246_0020_0FBEDDA7D99FFB78"/>Where a new world leaps out at his command—</l>
+                     <pb n="13" facs="unknown:023246_0020_0FBEDDA7D99FFB78"/>Where a new world leaps out at his command—</l>
                   <l>And ready Nature waits upon his hand;</l>
                   <l>When the ripe colours ſoften and unite,</l>
                   <l>And ſweetly melt into juſt ſhade and light—</l>
@@ -1436,7 +1438,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>But if in noble minds ſome dregs remain</l>
                   <l>Not yet purg'd off, of ſpleen and ſour diſdain,</l>
                   <l>
-                     <pb n="14" facs="tcp:023246_0021_0FBEDDA95367F8C8"/>Diſcharge that rage on more provoking crimes,</l>
+                     <pb n="14" facs="unknown:023246_0021_0FBEDDA95367F8C8"/>Diſcharge that rage on more provoking crimes,</l>
                   <l>Nor fear a dearth in theſe flagitious times.</l>
                   <l>No pardon vile obſcenity ſhould find,</l>
                   <l>Tho' wit and art conſpire to move your mind;</l>
@@ -1481,7 +1483,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>ſiſting fops we know,</l>
                   <l>Who, if once wrong, will needs be always ſo:</l>
                   <l>
-                     <pb n="15" facs="tcp:023246_0022_0FBEDDAED89C9150"/>But you, with pleaſure own your errors paſt,</l>
+                     <pb n="15" facs="unknown:023246_0022_0FBEDDAED89C9150"/>But you, with pleaſure own your errors paſt,</l>
                   <l>And make each day a critic on the laſt.</l>
                   <l>'Tis not enough your council ſtill be true;</l>
                   <l>Blunt truths more miſchief than nice falſehoods do;</l>
@@ -1528,7 +1530,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Such ſhameleſs bards we have: and yet, 'tis true,</l>
                   <l>There are as mad, abandon'd critics too.</l>
                   <l>
-                     <pb n="16" facs="tcp:023246_0023_0FBEDDB117C75F30"/>The bookful blockhead, ignorantly read,</l>
+                     <pb n="16" facs="unknown:023246_0023_0FBEDDB117C75F30"/>The bookful blockhead, ignorantly read,</l>
                   <l>With loads of learned lumber in his head,</l>
                   <l>With his own tongue ſtill edifies his ears,</l>
                   <l>And always liſtening to himſelf appears.</l>
@@ -1570,7 +1572,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Receiv'd his laws, and ſtood convinc'd, 'twas fit,</l>
                   <l>Who conquer'd nature ſhould preſide o'er wit.</l>
                   <l>
-                     <pb n="17" facs="tcp:023246_0024_0FBEDDB25125A600"/>Horace ſtill charms with graceful negligence,</l>
+                     <pb n="17" facs="unknown:023246_0024_0FBEDDB25125A600"/>Horace ſtill charms with graceful negligence,</l>
                   <l>And without method talks us into ſenſe;</l>
                   <l>Will, like a friend, familiarly convey</l>
                   <l>The trueſt notions in the eaſieſt way.</l>
@@ -1613,7 +1615,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>At length Eraſmus, that great, injur'd name</l>
                   <l>(The glory of the prieſthood, and the ſhame!)</l>
                   <l>
-                     <pb n="18" facs="tcp:023246_0025_0FBEDDB3D2698BF8"/>Stem'd the wild torrent of a barb'rous age,</l>
+                     <pb n="18" facs="unknown:023246_0025_0FBEDDB3D2698BF8"/>Stem'd the wild torrent of a barb'rous age,</l>
                   <l>And drove thoſe holy Vandals off the ſtage.</l>
                   <l>But ſee! each muſe, in Leo's golden days,</l>
                   <l>Starts from her trance, and trims her wither'd bays;</l>
@@ -1656,7 +1658,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The muſe, whoſe early voice you taught to ſing,</l>
                   <l>Preſcrib'd her heights, and prun'd her tender wing,</l>
                   <l>
-                     <pb n="19" facs="tcp:023246_0026_0FBEDDB736224AA8"/>(Her guide now loſt) no more attempts to riſe,</l>
+                     <pb n="19" facs="unknown:023246_0026_0FBEDDB736224AA8"/>(Her guide now loſt) no more attempts to riſe,</l>
                   <l>But in low numbers ſhort excurſions tries:</l>
                   <l>Content, if hence th' unlearn'd their wants may view;</l>
                   <l>The learn'd reflect on what before they kn<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1710,7 +1712,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The baſhful virgin's ſide-long looks of love,</l>
                   <l>The matron's glance that would thoſe looks reprove,</l>
                   <l>
-                     <pb n="20" facs="tcp:023246_0027_0FBEDDBBB96880B0"/>Theſe were thy charms, ſweet village! ſports like theſe,</l>
+                     <pb n="20" facs="unknown:023246_0027_0FBEDDBBB96880B0"/>Theſe were thy charms, ſweet village! ſports like theſe,</l>
                   <l>With ſweet ſucceſſion, taught e'en toil to pleaſe;</l>
                   <l>Theſe round thy bow'rs their cheerful influence ſhed,</l>
                   <l>Theſe were thy charms—But all theſe charms are fled.</l>
@@ -1763,7 +1765,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>ac'd the peaceful ſcene,</l>
                   <l>Liv'd in each look, and brighten'd all the green:</l>
                   <l>
-                     <pb n="21" facs="tcp:023246_0028_0FBEDDBCD209C470"/>Theſe, far departing, ſeek a kinder ſhore,</l>
+                     <pb n="21" facs="unknown:023246_0028_0FBEDDBCD209C470"/>Theſe, far departing, ſeek a kinder ſhore,</l>
                   <l>And rural mirth and manners are no more.</l>
                   <l>Sweet Auburn! parent of the bliſsful hour,</l>
                   <l>Thy glades, forlorn, confeſs the tyrant's pow'r.</l>
@@ -1806,7 +1808,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And, all his proſpects bright'ning to the laſt,</l>
                   <l>His heav'n commences ere the world be paſt!</l>
                   <l>
-                     <pb n="22" facs="tcp:023246_0029_0FBEDDBE51739B08"/>Sweet was the ſound, when oft, at ev'ning's cloſe,</l>
+                     <pb n="22" facs="unknown:023246_0029_0FBEDDBE51739B08"/>Sweet was the ſound, when oft, at ev'ning's cloſe,</l>
                   <l>Up yonder hill the village murmur roſe;</l>
                   <l>There, as I paſt, with careleſs ſteps and ſlow,</l>
                   <l>The mingling notes came ſoften'd from below;</l>
@@ -1861,7 +1863,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The ruin'd ſpendthrift, now no longer proud,</l>
                   <l>Claim'd kindred there, and had his claims allow'd;</l>
                   <l>
-                     <pb n="23" facs="tcp:023246_0030_0FBEDDBFD7068FD0"/>The broken ſoldier, kindly bade to ſtay,</l>
+                     <pb n="23" facs="unknown:023246_0030_0FBEDDBFD7068FD0"/>The broken ſoldier, kindly bade to ſtay,</l>
                   <l>Sat by his fire, and talk'd the night away;</l>
                   <l>Wept o'er his wounds, or tales of ſorrow done,</l>
                   <l>Shoulder'd his crutch, and ſhow'd how fields were won.</l>
@@ -1906,7 +1908,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>There, in his noiſy manſion ſkill'd to rule,</l>
                   <l>The village maſter taught his little ſchool:</l>
                   <l>
-                     <pb n="24" facs="tcp:023246_0031_0FBEDDC72095A8D8"/>A man ſevere he was, and ſtern to view;</l>
+                     <pb n="24" facs="unknown:023246_0031_0FBEDDC72095A8D8"/>A man ſevere he was, and ſtern to view;</l>
                   <l>I knew him well, and ev'ry truant knew;</l>
                   <l>Well had the boding tremblers learn'd to trace</l>
                   <l>The day's diſaſters in his morning face;</l>
@@ -1949,7 +1951,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Vain tranſitory ſplendor! could not all</l>
                   <l>Reprieve the tott'ring manſion from its fall?</l>
                   <l>
-                     <pb n="25" facs="tcp:023246_0032_0FBEDDC859AA2508"/>Obſcure it ſinks, nor ſhall it more impart</l>
+                     <pb n="25" facs="unknown:023246_0032_0FBEDDC859AA2508"/>Obſcure it ſinks, nor ſhall it more impart</l>
                   <l>An hour's importance to the poor man's heart.</l>
                   <l>Thither no more the peaſant ſhall repair</l>
                   <l>To ſweet oblivion of his daily care;</l>
@@ -1992,7 +1994,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The robe that wraps his limbs in ſilken ſloth,</l>
                   <l>Has robb'd the neighb'ring fields of half their growth;</l>
                   <l>
-                     <pb n="26" facs="tcp:023246_0033_0FBEDDC99AFA8268"/>His ſeat, where ſolitary ſports are ſeen,</l>
+                     <pb n="26" facs="unknown:023246_0033_0FBEDDC99AFA8268"/>His ſeat, where ſolitary ſports are ſeen,</l>
                   <l>Indignant ſpurns the cottage from the green;</l>
                   <l>Around the world each needful product flies,</l>
                   <l>For all the luxuries the world ſupplies.</l>
@@ -2035,7 +2037,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Tumultuous grandeur crowds the blazing ſquare,</l>
                   <l>The rattling chariots claſh, the torches glare.</l>
                   <l>
-                     <pb n="27" facs="tcp:023246_0034_0FBEDDCB10690CC0"/>Sure ſcenes like theſe no troubles e'er annoy!</l>
+                     <pb n="27" facs="unknown:023246_0034_0FBEDDCB10690CC0"/>Sure ſcenes like theſe no troubles e'er annoy!</l>
                   <l>Sure theſe denote one univerſal joy!</l>
                   <l>Are theſe thy ſerious thoughts?—Ah, turn thine eyes,</l>
                   <l>Where the poor, houſeleſs, ſhiv'ring female lies.</l>
@@ -2131,7 +2133,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Good heav'n! what ſorrows gloom'd that parting day,</l>
                   <l>That call'd them from their native walks away;</l>
                   <l>
-                     <pb n="28" facs="tcp:023246_0035_0FBEDDCC93DF8640"/>When the poor exiles, ev'ry pleaſure paſt,</l>
+                     <pb n="28" facs="unknown:023246_0035_0FBEDDCC93DF8640"/>When the poor exiles, ev'ry pleaſure paſt,</l>
                   <l>Hung round the bow'rs and fondly look'd their laſt,</l>
                   <l>And took a long farewell, and wiſh'd in vain</l>
                   <l>For ſeats like theſe beyond the weſtern main;</l>
@@ -2176,7 +2178,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And Piety with wiſhes placed above,</l>
                   <l>And ſteady Loyalty, and faithful Love.</l>
                   <l>
-                     <pb n="29" facs="tcp:023246_0036_0FBEDDD0C3371EC0"/>And thou, ſweet Poetry, thou lovelieſt maid,</l>
+                     <pb n="29" facs="unknown:023246_0036_0FBEDDD0C3371EC0"/>And thou, ſweet Poetry, thou lovelieſt maid,</l>
                   <l>Still fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ſt to fly where ſenſual joys invade;</l>
@@ -2227,7 +2229,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>'To lure thee to thy doom.</l>
                   </lg>
                   <lg>
-                     <pb n="30" facs="tcp:023246_0037_0FBEDDD3B1219360"/>
+                     <pb n="30" facs="unknown:023246_0037_0FBEDDD3B1219360"/>
                      <l>'Here to the houſeleſs child of want</l>
                      <l>'My door is open ſtill;</l>
                      <l>'And tho' my portion is but ſcant,</l>
@@ -2288,7 +2290,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The ling'ring hours beguil'd.</l>
                   </lg>
                   <lg>
-                     <pb n="31" facs="tcp:023246_0038_0FBEDDD4D0C9BEA8"/>
+                     <pb n="31" facs="unknown:023246_0038_0FBEDDD4D0C9BEA8"/>
                      <l>Around, in ſympathetic mirth,</l>
                      <l>It's tricks the kitten tries;</l>
                      <l>The cricket chirrups in the hearth,</l>
@@ -2351,7 +2353,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>A maid in all her charms.</l>
                   </lg>
                   <lg>
-                     <pb n="32" facs="tcp:023246_0039_0FBEDDD6B7425108"/>
+                     <pb n="32" facs="unknown:023246_0039_0FBEDDD6B7425108"/>
                      <l>'And ah! forgive a ſtranger rude,</l>
                      <l>'A wretch forlorn,' ſhe cry'd,</l>
                      <l>'Whoſe feet, unhallow'd, thus intrude</l>
@@ -2415,7 +2417,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>'In ſecret, where he died.</l>
                   </lg>
                   <lg>
-                     <pb n="33" facs="tcp:023246_0040_0FBEDDD857A9F008"/>
+                     <pb n="33" facs="unknown:023246_0040_0FBEDDD857A9F008"/>
                      <l>'But mine the ſorrow, mine the fault!</l>
                      <l>'And well my life ſhall pay;</l>
                      <l>'I'll ſeek the ſolitude he ſought,</l>
@@ -2467,7 +2469,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>His hopes no more a certain proſpect boaſt,</l>
                   <l>And all the tenor of his ſoul is loſt.</l>
                   <l>
-                     <pb n="34" facs="tcp:023246_0041_0FBEDDDA21F227B0"/>So when a ſmooth expanſe receives impreſt</l>
+                     <pb n="34" facs="unknown:023246_0041_0FBEDDDA21F227B0"/>So when a ſmooth expanſe receives impreſt</l>
                   <l>Calm nature's image on its wat'ry breaſt,</l>
                   <l>Down bend the banks, the trees depending grow,</l>
                   <l>And ſkies beneath with anſw'ring colours glow:</l>
@@ -2524,7 +2526,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="35" facs="tcp:023246_0042_0FBEDDDCF273E4C0"/>The table groans with coſtly piles of food,</l>
+                     <pb n="35" facs="unknown:023246_0042_0FBEDDDCF273E4C0"/>The table groans with coſtly piles of food,</l>
                   <l>And all is more than hoſpitably good.</l>
                   <l>Then, led to reſt, the day's long toil they drown,</l>
                   <l>Deep ſunk in ſleep, and ſilk, and heaps of down.</l>
@@ -2567,7 +2569,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Here long they knock; but knock or call in vain,</l>
                   <l>Driv'n by the wind and batter'd by the rain.</l>
                   <l>
-                     <pb n="36" facs="tcp:023246_0043_0FBEDDDE00FFDFE8"/>At length ſome pity warm'd the maſter's breaſt,</l>
+                     <pb n="36" facs="unknown:023246_0043_0FBEDDDE00FFDFE8"/>At length ſome pity warm'd the maſter's breaſt,</l>
                   <l>('Twas then his threſhold firſt receiv'd a gueſt):</l>
                   <l>Slow creeking, turns the door with jealous care,</l>
                   <l>And half he welcomes in the ſhiv'ring pair;</l>
@@ -2609,7 +2611,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Hither the walkers turn with weary feet,</l>
                   <l>Then bleſs the manſion, and the maſter greet:</l>
                   <l>
-                     <pb n="37" facs="tcp:023246_0044_0FBEDDE0EE966FF8"/>Their greeting fair, beſtow'd with modeſt guiſe,</l>
+                     <pb n="37" facs="unknown:023246_0044_0FBEDDE0EE966FF8"/>Their greeting fair, beſtow'd with modeſt guiſe,</l>
                   <l>The courteous maſter hears, and thus replies:</l>
                   <l>"Without a vain, without a grudging heart,</l>
                   <l>To him, who gives us all, I yield a part;</l>
@@ -2652,7 +2654,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And wings, whoſe colours glitter'd on the day,</l>
                   <l>Wide at his back their gradual plumes diſplay,</l>
                   <l>
-                     <pb n="38" facs="tcp:023246_0045_0FBEDDE3D22E1168"/>The form ethereal burſts upon his ſight,</l>
+                     <pb n="38" facs="unknown:023246_0045_0FBEDDE3D22E1168"/>The form ethereal burſts upon his ſight,</l>
                   <l>And moves in all the majeſty of light.</l>
                   <l>Tho' loud at firſt the pilgrim's paſſion grew,</l>
                   <l>Sudden he gaz'd, and wiſt not what to do;</l>
@@ -2695,7 +2697,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Thus artiſts melt the ſullen ore of lead,</l>
                   <l>With heaping coals of fire upon its head;</l>
                   <l>
-                     <pb n="39" facs="tcp:023246_0046_0FBEDDE5ADE36408"/>In the kind warmth, the metal learns to glow,</l>
+                     <pb n="39" facs="unknown:023246_0046_0FBEDDE5ADE36408"/>In the kind warmth, the metal learns to glow,</l>
                   <l>And, looſe from droſs, the ſilver runs below.</l>
                   <l>"Long had our pious friend in virtue trod,</l>
                   <l>But now the child half-wean'd his heart from God;</l>
@@ -2746,7 +2748,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </l>
                   </lg>
                   <lg>
-                     <pb n="40" facs="tcp:023246_0047_0FBEDDE6DE0D7B40"/>
+                     <pb n="40" facs="unknown:023246_0047_0FBEDDE6DE0D7B40"/>
                      <l>Save that, from yonder ivy-mantled tow'r,</l>
                      <l>The moping owl does to the moon complain</l>
                      <l>Of ſuch, as, wand'ring near her ſecret bow'r,</l>
@@ -2807,7 +2809,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Or wak'd to extaſy the living lyre.</l>
                   </lg>
                   <lg>
-                     <pb n="41" facs="tcp:023246_0048_0FBEDDEB42BA16F0"/>
+                     <pb n="41" facs="unknown:023246_0048_0FBEDDEB42BA16F0"/>
                      <l>But Knowledge to their eyes her ample page,</l>
                      <l>Rich with the ſpoils of Time, did ne'er unroll;</l>
                      <l>Chill Penury repreſs'd their noble rage,</l>
@@ -2870,7 +2872,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </l>
                   </lg>
                   <lg>
-                     <pb n="42" facs="tcp:023246_0049_0FBEDDEC105CD7C0"/>
+                     <pb n="42" facs="unknown:023246_0049_0FBEDDEC105CD7C0"/>
                      <l>On ſome fond breaſt the parting ſoul relies;</l>
                      <l>Some pious drops the cloſing eye requires;</l>
                      <l>Ev'n from the tomb the voice of nature cries,</l>
@@ -2935,7 +2937,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="43" facs="tcp:023246_0050_0FBEDDEF10351410"/>
+                  <pb n="43" facs="unknown:023246_0050_0FBEDDEF10351410"/>
                   <head>ADAM AND EVE's MORNING HYMN. MILTON.</head>
                   <l>THESE are thy glorious works, Parent of good,</l>
                   <l>Almighty! thine this univerſal frame,</l>
@@ -2977,7 +2979,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Or wet the th'rſty earth with falling ſhowers,</l>
                   <l>Riſing or falling, ſtill advance his praiſe.</l>
                   <l>
-                     <pb n="44" facs="tcp:023246_0051_0FBEDDF092494E10"/>His praiſe, ye winds, that from four quar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="44" facs="unknown:023246_0051_0FBEDDF092494E10"/>His praiſe, ye winds, that from four quar<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ers blow,</l>
                   <l>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3028,7 +3030,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>What tho' no real voice nor ſound,</l>
                      <l>Amid their radiant orbs be found!</l>
                      <l>
-                        <pb n="45" facs="tcp:023246_0052_0FBEDDF2820C6A00"/>
+                        <pb n="45" facs="unknown:023246_0052_0FBEDDF2820C6A00"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>n Reaſon's ear they all rejoice,</l>
@@ -3077,7 +3079,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <desc>•</desc>
                      </gap>pring;</l>
                   <l>
-                     <pb n="46" facs="tcp:023246_0053_0FBEDDF38F96E7E0"/>Flings from the ſun direct the flaming day;</l>
+                     <pb n="46" facs="unknown:023246_0053_0FBEDDF38F96E7E0"/>Flings from the ſun direct the flaming day;</l>
                   <l>Feeds ev'ry creature; hurls the tempeſt forth,</l>
                   <l>And, as on earth this grateful change revolves,</l>
                   <l>With tranſport touches all the ſprings of life.</l>
@@ -3121,7 +3123,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Ye vallies, raiſe; for the Great Shepherd reigns<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="47" facs="tcp:023246_0054_0FBEDDFA7AB86110"/>And his <hi>unſuffering</hi> kingdom yet will come.</l>
+                     <pb n="47" facs="unknown:023246_0054_0FBEDDFA7AB86110"/>And his <hi>unſuffering</hi> kingdom yet will come.</l>
                   <l>Ye woodlands all, awake: a boundleſs ſong</l>
                   <l>Burſt from the groves! and when the reſtleſs day,</l>
                   <l>Expiring, lays the warbling world aſleep,</l>
@@ -3164,7 +3166,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And <hi>better</hi> thence again, and <hi>better</hi> ſtill,</l>
                   <l>In infinite progreſſion.—But I loſe</l>
                   <l>
-                     <pb n="48" facs="tcp:023246_0055_0FBEDDFBD76CD768"/>Myſelf in him, in light ineffable!</l>
+                     <pb n="48" facs="unknown:023246_0055_0FBEDDFBD76CD768"/>Myſelf in him, in light ineffable!</l>
                   <l>Come then, expreſſive Silence, muſe his praiſe.</l>
                </div>
                <div type="poem">
@@ -3212,7 +3214,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Sits o'er his newly-gather'd fruits,</l>
                      <l>Beſide his cryſtal well!</l>
                      <l>
-                        <pb n="49" facs="tcp:023246_0056_0FBEDDFD4F8DB850"/>Or, haply, to his ev'ning thought,</l>
+                        <pb n="49" facs="unknown:023246_0056_0FBEDDFD4F8DB850"/>Or, haply, to his ev'ning thought,</l>
                      <l>By unfrequented ſtream,</l>
                      <l>The ways of men are diſtant brought,</l>
                      <l>A faint-collected dream:</l>
@@ -3255,7 +3257,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="50" facs="tcp:023246_0057_0FBEDDFF661121E8"/>
+                  <pb n="50" facs="unknown:023246_0057_0FBEDDFF661121E8"/>
                   <head>ON THE SHORTNESS OF HUMAN LIFE.</head>
                   <lg>
                      <l>LIKE as a damaſk roſe you ſee,</l>
@@ -3301,7 +3303,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="51" facs="tcp:023246_0058_0FBEDE03007CC180"/>
+                  <pb n="51" facs="unknown:023246_0058_0FBEDE03007CC180"/>
                   <head>AN EPITAPH ON A POOR, BUT HONEST MAN.</head>
                   <l>STOP, reader, here, and deign a look</l>
                   <l>On one without a name;</l>
@@ -3349,7 +3351,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>elf-ſame pow'r divine,</l>
                   <l>Taugh you to ſing, and me to ſhine,</l>
                   <l>
-                     <pb n="52" facs="tcp:023246_0059_0FBEDE065140CF20"/>That you with muſic, I with light,</l>
+                     <pb n="52" facs="unknown:023246_0059_0FBEDE065140CF20"/>That you with muſic, I with light,</l>
                   <l>Might beautify and cheer the night.</l>
                   <l>The ſongſter heard his ſhort oration,</l>
                   <l>And va<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3396,7 +3398,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>If ſhe ſit, or if ſhe move,</l>
                   <l>Still we love, and ſtill approve.</l>
                   <l>
-                     <pb n="53" facs="tcp:023246_0060_0FBEDE0716B78188"/>Vain the caſual, tranſient glance,</l>
+                     <pb n="53" facs="unknown:023246_0060_0FBEDE0716B78188"/>Vain the caſual, tranſient glance,</l>
                   <l>Which alone can pleaſe by chance,</l>
                   <l>Beauty, which depends on art,</l>
                   <l>Changing with the changing art,</l>
@@ -3443,7 +3445,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>A damaſk cheek and ivory arm,</l>
                      <l>Shall ne'er my wiſhes win:</l>
                      <l>
-                        <pb n="54" facs="tcp:023246_0061_0FBEDE088DC8ABD8"/>Give me an animated form,</l>
+                        <pb n="54" facs="unknown:023246_0061_0FBEDE088DC8ABD8"/>Give me an animated form,</l>
                      <l>That ſpeaks a mind within—</l>
                   </lg>
                   <lg>
@@ -3498,7 +3500,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And meets me at night with compliance and ſmiles.</l>
                   </lg>
                   <lg>
-                     <pb n="55" facs="tcp:023246_0062_0FBEDE0E261C2638"/>
+                     <pb n="55" facs="unknown:023246_0062_0FBEDE0E261C2638"/>
                      <l>What though on her cheeks the roſe loſes its hue,</l>
                      <l>Her wit and good humour bloom all the year through;</l>
                      <l>Time ſtill, as he flies, adds increaſe to her truth,</l>
@@ -3554,7 +3556,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>There is no armour againſt fate:</l>
                      <l>Death lays his icy hands on kings.</l>
                      <l>
-                        <pb n="56" facs="tcp:023246_0063_0FBEDE0F69522000"/>Sceptre and crown</l>
+                        <pb n="56" facs="unknown:023246_0063_0FBEDE0F69522000"/>Sceptre and crown</l>
                      <l>Muſt tumble down,</l>
                      <l>And in the duſt be equal made</l>
                      <l>With the poor crooked ſcythe and ſpade.</l>
@@ -3600,7 +3602,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>But chiefly thou, Great Ruler! Lord of all!</l>
                   <l>Before whoſe throne archangels proſtrate fall;</l>
                   <l>
-                     <pb n="57" facs="tcp:023246_0064_0FBEDE10CDDF73E0"/>If at thy nod, from diſcord and from night,</l>
+                     <pb n="57" facs="unknown:023246_0064_0FBEDE10CDDF73E0"/>If at thy nod, from diſcord and from night,</l>
                   <l>Sprang beauty, and yon ſparkling worlds of light,</l>
                   <l>Exalt e'en me; all inward tumults quell;</l>
                   <l>The clouds and darkneſs of my mind diſpel;</l>
@@ -3648,7 +3650,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <hi>Time</hi> ſhall be ſlain, all <hi>nature</hi> be deſtroy'd,</l>
                   <l>Nor leave an atom in the mighty void.</l>
                   <l>
-                     <pb n="58" facs="tcp:023246_0065_0FBEDE14C9EAECD8"/>Sooner or later, in ſome future date,</l>
+                     <pb n="58" facs="unknown:023246_0065_0FBEDE14C9EAECD8"/>Sooner or later, in ſome future date,</l>
                   <l>(A dreadful ſecret in the book of fate!)</l>
                   <l>This hour, for au<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -3697,7 +3699,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>This is the ſcene of combat, not of reſt;</l>
                   <l>Man's is laborious happineſs at beſt;</l>
                   <l>
-                     <pb n="59" facs="tcp:023246_0066_0FBEDE16BB35F968"/>On this ſide death, his dangers never ceaſe:</l>
+                     <pb n="59" facs="unknown:023246_0066_0FBEDE16BB35F968"/>On this ſide death, his dangers never ceaſe:</l>
                   <l>His joys are joys of conqueſt, not of peace.</l>
                   <l>If then, obſequious to the will of fate,</l>
                   <l>And bending to the terms of human ſtate,</l>
@@ -3745,7 +3747,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </l>
                   <l>And ſweet viciſſitude of fall and ſpring—</l>
                   <l>
-                     <pb n="60" facs="tcp:023246_0067_0FBEDE17CA6871A8"/>Some thro' vaſt oceans to conduct the keel,</l>
+                     <pb n="60" facs="unknown:023246_0067_0FBEDE17CA6871A8"/>Some thro' vaſt oceans to conduct the keel,</l>
                   <l>And ſome thoſe watry worlds to ſink, or ſwell—</l>
                   <l>Around her ſome their ſplendors to diſplay,</l>
                   <l>And gild her globe with tributary day—</l>
@@ -3790,7 +3792,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Seas caſt the monſter forth<g ref="char:punc">▪</g> to meet his doom;</l>
                   <l>And rocks but priſon up, for wrath to come.</l>
                   <l>
-                     <pb n="61" facs="tcp:023246_0068_0FBEDE19142D2558"/>So fares a traitor to an earthly crown,</l>
+                     <pb n="61" facs="unknown:023246_0068_0FBEDE19142D2558"/>So fares a traitor to an earthly crown,</l>
                   <l>While Death ſits threat'ning in his prince's frown;</l>
                   <l>His heart's diſmay'd: and now his fears command</l>
                   <l>To change his native for a diſtant land:</l>
@@ -3841,7 +3843,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>They all for him purſue, or quit, their end;</l>
                   <l>The mounting flames their burning pow'r ſuſpend;</l>
                   <l>
-                     <pb n="62" facs="tcp:023246_0069_0FBEDE1A9D20CD68"/>In ſolid heaps th' unfrozen billows ſtand,</l>
+                     <pb n="62" facs="unknown:023246_0069_0FBEDE1A9D20CD68"/>In ſolid heaps th' unfrozen billows ſtand,</l>
                   <l>To reſt and ſilence aw'd by his command:</l>
                   <l>Nay, the dire monſters that infeſt the flood,</l>
                   <l>By nature dreadful, and athirſt for blood,</l>
@@ -3885,7 +3887,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>But ſtill ariſe new wonders. Nature's Lord</l>
                   <l>Sends forth into the deep his pow'rful word;</l>
                   <l>
-                     <pb n="63" facs="tcp:023246_0070_0FBEDE1C2C4F8180"/>And calls the great Leviathan. The great</l>
+                     <pb n="63" facs="unknown:023246_0070_0FBEDE1C2C4F8180"/>And calls the great Leviathan. The great</l>
                   <l>Leviathan attends in all his ſtate;</l>
                   <l>Exults for joy, and with a mighty bound</l>
                   <l>Makes the ſea ſhake, and heav'n and earth reſound<g ref="char:punc">▪</g>
@@ -3924,7 +3926,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Shakes off the ſlumber of ten thouſand years,</l>
                   <l>And on the borders of new worlds appears.</l>
                   <l>
-                     <pb n="64" facs="tcp:023246_0071_0FBEDE1DB7155568"/>Whate'er the bold, the raſh adventure coſt,</l>
+                     <pb n="64" facs="unknown:023246_0071_0FBEDE1DB7155568"/>Whate'er the bold, the raſh adventure coſt,</l>
                   <l>In wide <hi>eternity</hi> I dare be loſt.</l>
                   <l>The muſe is wont in narrow bounds to ſing,</l>
                   <l>To <hi>
@@ -3973,7 +3975,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The trumpet's ſound each vagrant mote ſhall hear,</l>
                   <l>Or fix'd in earth, or if afloat in air,</l>
                   <l>
-                     <pb n="65" facs="tcp:023246_0072_0FBEDE208CFF50F8"/>Obey the ſignal, waſted in the wind,</l>
+                     <pb n="65" facs="unknown:023246_0072_0FBEDE208CFF50F8"/>Obey the ſignal, waſted in the wind,</l>
                   <l>And not one ſleeping atom lag behind.</l>
                   <l>So ſwarming bees, that, on a ſummer's day,</l>
                   <l>In airy <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4019,7 +4021,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Not all at once, nor in like manner riſe:</l>
                   <l>Some lift with pain their ſlow, unwilling eyes;</l>
                   <l>
-                     <pb n="66" facs="tcp:023246_0073_0FBEDE25E8620340"/>Shrink backward from the terror of the light,</l>
+                     <pb n="66" facs="unknown:023246_0073_0FBEDE25E8620340"/>Shrink backward from the terror of the light,</l>
                   <l>And bleſs the grave, and call for laſting night.</l>
                   <l>Others, whoſe long-attempted virtue ſtood</l>
                   <l>Fix'd as a rock, and broke the ruſhing flood—</l>
@@ -4063,7 +4065,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>When other records length of years ſhall blaſt,</l>
                   <l>In your adopted ſons your fame ſhall laſt,</l>
                   <l>
-                     <pb n="67" facs="tcp:023246_0074_0FBEDE275ECE13F0"/>And make thoſe kings to lateſt ages known,</l>
+                     <pb n="67" facs="unknown:023246_0074_0FBEDE275ECE13F0"/>And make thoſe kings to lateſt ages known,</l>
                   <l>Thoſe happy monarchs, under whom you ſhone:</l>
                   <l>A moment ſhone, illuſtriouſly bright,</l>
                   <l>Then left the mourning world, and ſet in night;</l>
@@ -4109,7 +4111,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And every age and nation pours along;</l>
                   <l>Nimrod and Bourbon mingle in the throng:</l>
                   <l>
-                     <pb n="68" facs="tcp:023246_0075_0FBEDE28CDE16FB0"/>Adam ſalutes his youngeſt ſon; no ſign</l>
+                     <pb n="68" facs="unknown:023246_0075_0FBEDE28CDE16FB0"/>Adam ſalutes his youngeſt ſon; no ſign</l>
                   <l>Of all thoſe ages which their births disjoin.</l>
                   <l>How empty learning, and how vain is art,</l>
                   <l>But as it mends the life, and guides the heart?</l>
@@ -4159,7 +4161,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>A ſudden bluſh inflames the waving ſky,</l>
                   <l>And now the crimſon curtains open fly;</l>
                   <l>
-                     <pb n="69" facs="tcp:023246_0076_0FBEDE2F2D590A10"/>Lo! far within, and far above all height,</l>
+                     <pb n="69" facs="unknown:023246_0076_0FBEDE2F2D590A10"/>Lo! far within, and far above all height,</l>
                   <l>Where heav'n's great Sovereign reigns in worlds of light,</l>
                   <l>Whence Nature he informs, and with one ray</l>
                   <l>Shot from his eye, does all her works ſurvey,</l>
@@ -4204,7 +4206,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Ev'n JUDAS ſtruggles his deſpair to quell:</l>
                   <l>Hope almoſt bloſſoms in the ſhades of hell.</l>
                   <l>
-                     <pb n="70" facs="tcp:023246_0077_0FBEDE3125E0DA88"/>Thus glorious through the courts of heav'n, the ſource</l>
+                     <pb n="70" facs="unknown:023246_0077_0FBEDE3125E0DA88"/>Thus glorious through the courts of heav'n, the ſource</l>
                   <l>Of life and death eternal bends his courſe;</l>
                   <l>Loud thunders round him roll, and lightnings play;</l>
                   <l>Th' angelic hoſt is rang'd in bright array:</l>
@@ -4248,7 +4250,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Sheets of bright azure, from the pureſt ſky</l>
                   <l>Stream from the cryſtal arch, and round the columns fly.</l>
                   <l>
-                     <pb n="71" facs="tcp:023246_0078_0FBEDE3316803160"/>
+                     <pb n="71" facs="unknown:023246_0078_0FBEDE3316803160"/>
                      <hi>Death,</hi> wrapt in chains, low at the baſis lies,</l>
                   <l>And, on the point of his own arrow, dies.</l>
                   <l>Here high enthron'd, th' eternal Judge is plac'd,</l>
@@ -4292,7 +4294,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Thy power, my weakneſs, may I ever ſee,</l>
                   <l>And wholly dedicate my ſoul to thee:</l>
                   <l>
-                     <pb n="72" facs="tcp:023246_0079_0FBEDE3411509A18"/>Reign o'er my will; my paſſions ebb and flow</l>
+                     <pb n="72" facs="unknown:023246_0079_0FBEDE3411509A18"/>Reign o'er my will; my paſſions ebb and flow</l>
                   <l>At thy command, nor human motive know.</l>
                   <l>If anger boil, let anger be my praiſe,</l>
                   <l>And ſin the graceful indignation <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4337,7 +4339,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Compoſe our ſouls with a leſs dazzling ſight,</l>
                   <l>And ſhow all nature in a milder light;</l>
                   <l>
-                     <pb n="73" facs="tcp:023246_0080_0FBEDE358DA4DBE0"/>How ev'ry boiſt'rous thought in calm ſubſides!</l>
+                     <pb n="73" facs="unknown:023246_0080_0FBEDE358DA4DBE0"/>How ev'ry boiſt'rous thought in calm ſubſides!</l>
                   <l>How the ſmooth'd ſpirit into goodneſs glides!</l>
                   <l>O how divine! to tread the milky way</l>
                   <l>To the bright palace of the Lord of day;</l>
@@ -4375,7 +4377,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>She kindles, ſhe's inflam'd ſo near the goal;</l>
                   <l>She mounts, ſhe gains upon the ſtarry pole;</l>
                   <l>
-                     <pb n="74" facs="tcp:023246_0081_0FBEDE3CDF105CB0"/>The world grows leſs as ſhe purſues her flight,</l>
+                     <pb n="74" facs="unknown:023246_0081_0FBEDE3CDF105CB0"/>The world grows leſs as ſhe purſues her flight,</l>
                   <l>And the ſun darkens to her diſtant ſight.</l>
                   <l>Heav'n opening all its ſacred pomp diſplays,</l>
                   <l>And overwhelms her with the ruſhing blaze!</l>
@@ -4423,7 +4425,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>age,</l>
                   <l>And in that moment to redeem an age?</l>
                   <l>
-                     <pb n="75" facs="tcp:023246_0082_0FBEDE3DD903EE40"/>Drive back the tide—ſuſpend a ſtorm in air—</l>
+                     <pb n="75" facs="unknown:023246_0082_0FBEDE3DD903EE40"/>Drive back the tide—ſuſpend a ſtorm in air—</l>
                   <l>Reſtrain the ſun—but ſtill of this deſpair.</l>
                   <l>Mark on the right how amiable a grace!</l>
                   <l>Their Maker's image freſh in ev'ry face!</l>
@@ -4469,7 +4471,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <hi>King Charles</hi> I.</note>, who 'midſt the radiant bands</l>
                   <l>Of ſpotleſs ſaints, and laurel'd martyrs ſtands,</l>
                   <l>
-                     <pb n="76" facs="tcp:023246_0083_0FBEDE3F5554E060"/>Conſpicuous from afar? Whoſe rays ſo bright</l>
+                     <pb n="76" facs="unknown:023246_0083_0FBEDE3F5554E060"/>Conſpicuous from afar? Whoſe rays ſo bright</l>
                   <l>Solicit, and attract the raviſh'd ſight?</l>
                   <l>In whom I ſee two diſtant virtues join'd,</l>
                   <l>A royal greatneſs, and an humble mind?</l>
@@ -4515,7 +4517,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Now, juſt reward! celeſtial crowns encloſe</l>
                   <l>With deathleſs glories your victorious brows.</l>
                   <l>
-                     <pb n="77" facs="tcp:023246_0084_0FBEDE43ED6DC6A8"/>For ſee the volume vaſt, ſince time begun</l>
+                     <pb n="77" facs="unknown:023246_0084_0FBEDE43ED6DC6A8"/>For ſee the volume vaſt, ſince time begun</l>
                   <l>Juſt regiſter of all beneath the ſun,</l>
                   <l>Is thrown full wide; peace, ocean! ſilence lull</l>
                   <l>The ſounding winds! ye ſpheres, forbear to roll!</l>
@@ -4559,7 +4561,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </l>
                   <l>Ah! cruel Death that would no longer ſave,</l>
                   <l>
-                     <pb n="78" facs="tcp:023246_0085_0FBEDE4556BC53E8"/>But grudg'd the e'en that narrow, dark abode,</l>
+                     <pb n="78" facs="unknown:023246_0085_0FBEDE4556BC53E8"/>But grudg'd the e'en that narrow, dark abode,</l>
                   <l>And caſt <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> out into the wrath of God;</l>
@@ -4613,7 +4615,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Tear me from quiet, raviſh me from night,</l>
                   <l>And make a thankleſs preſent of thy light?</l>
                   <l>
-                     <pb n="79" facs="tcp:023246_0086_0FBEDE46D51041F8"/>Puſh into being a reverſe of thee,</l>
+                     <pb n="79" facs="unknown:023246_0086_0FBEDE46D51041F8"/>Puſh into being a reverſe of thee,</l>
                   <l>And animate a clod with miſery?</l>
                   <l>The beaſts are happy: they come forth and keep</l>
                   <l>Short watch on earth, and then lay down to ſleep.</l>
@@ -4656,7 +4658,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Deep anguiſh! but too late: the hopeleſs ſoul</l>
                   <l>Bound to the bottom of the burning pool,</l>
                   <l>
-                     <pb n="80" facs="tcp:023246_0087_0FBEDE484D1D6430"/>Though loth, and ever loud blaſpheming, owns</l>
+                     <pb n="80" facs="unknown:023246_0087_0FBEDE484D1D6430"/>Though loth, and ever loud blaſpheming, owns</l>
                   <l>He's juſtly doom'd to pour eternal groans;</l>
                   <l>Enclos'd with horrors, and transfix'd with pain,</l>
                   <l>Rolling in vengeance, ſtruggling with his chain:</l>
@@ -4699,7 +4701,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Here winding pyramids of fire aſcend,</l>
                   <l>Cities and deſerts in one ruin blend;</l>
                   <l>
-                     <pb n="81" facs="tcp:023246_0088_0FBEDE4E11BD1B70"/>Here blazing volumes wafted, overwhelm</l>
+                     <pb n="81" facs="unknown:023246_0088_0FBEDE4E11BD1B70"/>Here blazing volumes wafted, overwhelm</l>
                   <l>The ſpacious face of a far diſtant realm;</l>
                   <l>There, undermin'd, down ruſh eternal hills,</l>
                   <l>The neighb'ring vales the vaſt deſtruction fills.</l>
@@ -4743,7 +4745,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And leave a mighty blank; involv'd in flame,</l>
                   <l>The whole creation ſinks! the glorious frame,</l>
                   <l>
-                     <pb n="82" facs="tcp:023246_0089_0FBEDE4F50758810"/>In which ten thouſand worlds in radiant dance,</l>
+                     <pb n="82" facs="unknown:023246_0089_0FBEDE4F50758810"/>In which ten thouſand worlds in radiant dance,</l>
                   <l>Orb above orb their wond'rous courſe advance,</l>
                   <l>By that o'er-ruling hand, which kindled all</l>
                   <l>The ſtars, and rounded in its palm the ball,</l>
@@ -4788,7 +4790,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Loſe not thy claim; let virtue's paths be trod;</l>
                   <l>Thus glad all heav'n, and pleaſe that bounteous God,</l>
                   <l>
-                     <pb n="83" facs="tcp:023246_0090_0FBEDE509BD45420"/>Who to light thee to pleaſures, hung on high</l>
+                     <pb n="83" facs="unknown:023246_0090_0FBEDE509BD45420"/>Who to light thee to pleaſures, hung on high</l>
                   <l>Yon radiant orb, proud regent of the ſky:</l>
                   <l>That ſervice done, its beams ſhall fade away,</l>
                   <l>And God ſhine forth in one <hi>eternal</hi> DAY.</l>
@@ -4843,7 +4845,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Firm as a Foxite, would not loſe its ruff;</l>
                      <l>So kept it—laughing at the ſteel and ſuds:</l>
                      <l>
-                        <pb n="84" facs="tcp:023246_0091_0FBEDE520E76AEB8"/>Hodge, in a paſſion, ſtretch'd his angry jaws,</l>
+                        <pb n="84" facs="unknown:023246_0091_0FBEDE520E76AEB8"/>Hodge, in a paſſion, ſtretch'd his angry jaws,</l>
                      <l>Vowing the direſt vengeance, with clench'd claws,</l>
                      <l>On the vile CHEAT that ſold the goods.</l>
                      <l>"Razors!—a damn'd, confounded dog—</l>
@@ -4898,7 +4900,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         </gap>TONS periſh'd here.</l>
                   </lg>
                   <lg>
-                     <pb n="85" facs="tcp:023246_0092_0FBEDE57F0E00238"/>
+                     <pb n="85" facs="unknown:023246_0092_0FBEDE57F0E00238"/>
                      <l>Yes, the time was, nor very far the date,</l>
                      <l>When Carnage here her crimſon toil began—</l>
                      <l>When nations' ſtandards wav'd in threat'ning ſtate,</l>
@@ -4960,7 +4962,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And Love, true Love, in bitter anguiſh died.</l>
                   </lg>
                   <lg>
-                     <pb n="86" facs="tcp:023246_0093_0FBEDE58D8CCE850"/>
+                     <pb n="86" facs="unknown:023246_0093_0FBEDE58D8CCE850"/>
                      <l>Alas! the ſolemn ſlaughter I retrace,</l>
                      <l>That checks life's current circling thro' my veins<g ref="char:punc">▪</g>
                      </l>
@@ -5022,7 +5024,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </l>
                   </lg>
                   <lg>
-                     <pb n="87" facs="tcp:023246_0094_0FBEDE5A4DE799D0"/>
+                     <pb n="87" facs="unknown:023246_0094_0FBEDE5A4DE799D0"/>
                      <l>E'en at this moment, on the burning gale</l>
                      <l>Floats the weak wailing of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
@@ -5103,7 +5105,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The ſelfiſh ſubject, to the ſocial mind.</l>
                   </lg>
                   <lg>
-                     <pb n="88" facs="tcp:023246_0095_0FBEDE5BCD34EF88"/>
+                     <pb n="88" facs="unknown:023246_0095_0FBEDE5BCD34EF88"/>
                      <l>Ah! how can <hi>he,</hi> whoſe daily lot is grief,</l>
                      <l>Whoſe mind is vilify'd beneath the rod,</l>
                      <l>Suppoſe his <hi>Maker</hi> has for him relief?</l>
@@ -5167,7 +5169,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The feign'd ſurpriſe, the roguiſh leer,</l>
                   <l>The tender ſmile, the thrilling tear,</l>
                   <l>
-                     <pb n="89" facs="tcp:023246_0096_0FBEDE6185FEDDC8"/>Have now no pangs, no joys for me;</l>
+                     <pb n="89" facs="unknown:023246_0096_0FBEDE6185FEDDC8"/>Have now no pangs, no joys for me;</l>
                   <l>So fare thee well, for I am free!</l>
                   <l>Then flutter hence on wanton wing,</l>
                   <l>Or lave thee in you lucid ſpring,</l>
@@ -5213,7 +5215,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </closer>
                </div>
                <div type="poem">
-                  <pb n="90" facs="tcp:023246_0097_0FBEDE62B1FDCA60"/>
+                  <pb n="90" facs="unknown:023246_0097_0FBEDE62B1FDCA60"/>
                   <head>TO DELLA CRUSCA. THE PEN. Mrs. <hi>COWLEY.</hi>
                   </head>
                   <l>O! SEIZE again thy golden quill,</l>
@@ -5258,7 +5260,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Iv'e view'd thee on the wild beach run</l>
                   <l>To gaze upon the ſetting ſun;</l>
                   <l>
-                     <pb n="93" facs="tcp:023246_0098_0FBEDE6411B6D210"/>Then ſtop aghaſt, his ray no more,</l>
+                     <pb n="93" facs="unknown:023246_0098_0FBEDE6411B6D210"/>Then ſtop aghaſt, his ray no more,</l>
                   <l>To hear th' impetuous ſurge's roar.</l>
                   <l>Haſt thou not ſtood with rapt'rous eye</l>
                   <l>To trace the ſtarry worlds on high,</l>
@@ -5301,7 +5303,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>But think no longer in diſguiſe,</l>
                   <l>To ſcreen thy beauty from mine eyes.</l>
                   <l>
-                     <pb n="92" facs="tcp:023246_0099_0FBEF05E0314E508"/>Nor deign a borrow'd name to uſe,</l>
+                     <pb n="92" facs="unknown:023246_0099_0FBEF05E0314E508"/>Nor deign a borrow'd name to uſe,</l>
                   <l>For well I know—thou art the muſe!</l>
                   <closer>
                      <signed>DELLA CRUSCA.</signed>
@@ -5346,7 +5348,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <hi>O Time!</hi> ſince theſe are left me ſtill,</l>
                   <l>Of <hi>leſſer thefts</hi> e'en take thy fill:</l>
                   <l>
-                     <pb n="93" facs="tcp:023246_0100_0FBEF062250DC378"/>Yes, ſteal the luſtre from my eye,</l>
+                     <pb n="93" facs="unknown:023246_0100_0FBEF062250DC378"/>Yes, ſteal the luſtre from my eye,</l>
                   <l>And bid the ſoft carnation fly;</l>
                   <l>My treſſes ſprinkle with thy ſnow,</l>
                   <l>Which boaſted once the <hi>auburn glow;</hi>
@@ -5394,7 +5396,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Which teeming clouds, and heavy hail,</l>
                   <l>And furious hurricanes aſſail,</l>
                   <l>
-                     <pb n="94" facs="tcp:023246_0101_0FBEF067D7BD87A8"/>Far to the pole—while half the year,</l>
+                     <pb n="94" facs="unknown:023246_0101_0FBEF067D7BD87A8"/>Far to the pole—while half the year,</l>
                   <l>On ebon throne ſits Night ſevere;</l>
                   <l>And to her ſolitary court,</l>
                   <l>Sea-fowl, and monſters fierce reſort—</l>
@@ -5438,7 +5440,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>To thoſe I offer up my vows,</l>
                   <l>And love, which Virtue's ſelf allows;</l>
                   <l>
-                     <pb n="95" facs="tcp:023246_0102_0FBEF06A14247E80"/>Unknown, again thou art ador'd,</l>
+                     <pb n="95" facs="unknown:023246_0102_0FBEF06A14247E80"/>Unknown, again thou art ador'd,</l>
                   <l>At once by him, thy "<hi>boſom's lord.</hi>"</l>
                   <closer>
                      <signed>DELLA CRUSCA.</signed>
@@ -5492,7 +5494,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>'O when ſhall it dawn on the night of the grave!'</l>
                   </lg>
                   <lg>
-                     <pb n="96" facs="tcp:023246_0103_0FBEF06B808744E8"/>
+                     <pb n="96" facs="unknown:023246_0103_0FBEF06B808744E8"/>
                      <l>''Twas thus, by the glare of falſe ſcience betray'd,</l>
                      <l>'That leads, to bewilder, and dazzles to blind:</l>
                      <l>'My thoughts wont to roam, from ſhade onward to ſhade,</l>
@@ -5539,7 +5541,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <l>—I have bade my dear Phyllis farewel.</l>
                      </lg>
                      <lg>
-                        <pb n="97" facs="tcp:023246_0104_0FBEF06E8FE6CD00"/>
+                        <pb n="97" facs="unknown:023246_0104_0FBEF06E8FE6CD00"/>
                         <l>Since Phyllis vouchſaf'd me a look,</l>
                         <l>I never once dreamt of my vine;</l>
                         <l>May I loſe both my pipe and my crook,</l>
@@ -5593,7 +5595,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <l>Where the hare-bells and violets grow.</l>
                      </lg>
                      <lg>
-                        <pb n="98" facs="tcp:023246_0105_0FBEF070D9D46958"/>
+                        <pb n="98" facs="unknown:023246_0105_0FBEF070D9D46958"/>
                         <l>Not a pine in my grove is there ſeen,</l>
                         <l>But with tendrils of woodbine is bound:</l>
                         <l>Not a beech's more-beautiful green,</l>
@@ -5644,7 +5646,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <l>Methinks I ſhould love her the more.</l>
                      </lg>
                      <lg>
-                        <pb n="99" facs="tcp:023246_0106_0FBEF072501BA840"/>
+                        <pb n="99" facs="unknown:023246_0106_0FBEF072501BA840"/>
                         <l>Can a boſom ſo gentle remain</l>
                         <l>Unmov'd, when her Corydon ſighs?</l>
                         <l>Will a nymph that is fond of the plain,</l>
@@ -5698,7 +5700,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <l>Of a magic there is in the ſound.</l>
                      </lg>
                      <lg>
-                        <pb n="100" facs="tcp:023246_0107_0FBEF073C10F3D80"/>
+                        <pb n="100" facs="unknown:023246_0107_0FBEF073C10F3D80"/>
                         <l>'Tis his with mock paſſion to glow;</l>
                         <l>'Tis his in ſmooth tales to unfold,</l>
                         <l>"How her face is as bright as the ſnow,</l>
@@ -5752,7 +5754,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <l>She is faithleſs—and I am undone.</l>
                      </lg>
                      <lg>
-                        <pb n="101" facs="tcp:023246_0108_0FBEF079278C1988"/>
+                        <pb n="101" facs="unknown:023246_0108_0FBEF079278C1988"/>
                         <l>Perhaps I was void of all thought;</l>
                         <l>Perhaps it was plain to foreſee,</l>
                         <l>That a nymph ſo complete would be ſought</l>
@@ -5810,7 +5812,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </div>
                </div>
                <div type="poem">
-                  <pb n="102" facs="tcp:023246_0109_0FBEF07AE3D75AA0"/>
+                  <pb n="102" facs="unknown:023246_0109_0FBEF07AE3D75AA0"/>
                   <head>ON GENERAL WASHINGTON.</head>
                   <l>GREAT without pomp, without ambition brave—</l>
                   <l>Proud, not to conquer fellow-men, but ſave—</l>
@@ -5859,7 +5861,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>ay, what is beauty?—what a pretty face,</l>
                   <l>If the fair maid poſſeſs no other grace?</l>
                   <l>
-                     <pb n="103" facs="tcp:023246_0110_0FBEF07CBB403680"/>Beauty may fan the ſparks of fond deſire;</l>
+                     <pb n="103" facs="unknown:023246_0110_0FBEF07CBB403680"/>Beauty may fan the ſparks of fond deſire;</l>
                   <l>A pretty face may ſet the ſoul on fire:</l>
                   <l>Yet will poſſeſſion ſoon the paſſions cloy;</l>
                   <l>For oft enjoyment blunts the edge of joy!</l>
@@ -5899,7 +5901,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Where are my vot'ries—where my flatt'rers now?</l>
                   <l>Fled, with the ſubject of each lover's vow.</l>
                   <l>
-                     <pb n="104" facs="tcp:023246_0111_0FBEF0800B585BA0"/>Adieu the roſe's red and lily's white,</l>
+                     <pb n="104" facs="unknown:023246_0111_0FBEF0800B585BA0"/>Adieu the roſe's red and lily's white,</l>
                   <l>Adieu thoſe eyes, that made the darkneſs light:</l>
                   <l>No more, alas! thoſe coral lips are ſeen,</l>
                   <l>Nor longer breathes the fragrant gale between.</l>
@@ -5943,7 +5945,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>But Death awoke me from my dream of pride;</l>
                   <l>And laid a prouder beggar by my ſide.</l>
                   <l>
-                     <pb n="105" facs="tcp:023246_0112_0FBEF081F9687110"/>Pleaſure I courted; and obey'd my taſte;</l>
+                     <pb n="105" facs="unknown:023246_0112_0FBEF081F9687110"/>Pleaſure I courted; and obey'd my taſte;</l>
                   <l>The banquet ſmil'd, and ſmil'd the gay repaſt:</l>
                   <l>A loathſome carcaſe was my conſtant care:</l>
                   <l>And worlds were ranſack'd, but for me to ſhare.</l>
@@ -5998,7 +6000,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>On the flouriſhing buſh where it grew.</l>
                   </lg>
                   <lg>
-                     <pb n="106" facs="tcp:023246_0113_0FBEF08378669170"/>
+                     <pb n="106" facs="unknown:023246_0113_0FBEF08378669170"/>
                      <l>I haſtily <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>iz'd it, unfit as it was,</l>
@@ -6054,7 +6056,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Devoid of ſtrife,</l>
                      <l>And juſtly, too, unfolded is!</l>
                      <l>
-                        <pb n="107" facs="tcp:023246_0114_0FBEF089A7A517F8"/>The while the ſloth</l>
+                        <pb n="107" facs="unknown:023246_0114_0FBEF089A7A517F8"/>The while the ſloth</l>
                      <l>To ſtir is loth,</l>
                      <l>And trembling cries, how cold it is!</l>
                   </lg>
@@ -6103,7 +6105,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Where'er the tale</l>
                      <l>Of real grief unfolded is,</l>
                      <l>
-                        <pb n="108" facs="tcp:023246_0115_0FBEF08B10702910"/>O may he give</l>
+                        <pb n="108" facs="unknown:023246_0115_0FBEF08B10702910"/>O may he give</l>
                      <l>The means to live,</l>
                      <l>To thoſe who know, how cold it is.</l>
                   </lg>
@@ -6151,7 +6153,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>His paſſion to diſcover.</l>
                   </lg>
                   <lg>
-                     <pb n="109" facs="tcp:023246_0116_0FBEF08C8628B0D0"/>
+                     <pb n="109" facs="unknown:023246_0116_0FBEF08C8628B0D0"/>
                      <l>No fair one, I'm a matron grave,</l>
                      <l>Whom time and care hath waſted;</l>
                      <l>Who would thy youth from ſorrow ſave,</l>
@@ -6215,7 +6217,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>FOR him, who, loſt up ev'ry hope of life,</l>
                      <l>Has long with fortune held unequal ſtrife,</l>
                      <l>
-                        <pb n="110" facs="tcp:023246_0117_0FBEF08E59F53BB0"/>Known to no human love, no human care,</l>
+                        <pb n="110" facs="unknown:023246_0117_0FBEF08E59F53BB0"/>Known to no human love, no human care,</l>
                      <l>The friendleſs, homeleſs object of deſpair;</l>
                      <l>For the poor vagrant, feel, while he complains,</l>
                      <l>Nor from ſad freedom ſend to ſadder chains.</l>
@@ -6266,7 +6268,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And make a world of love.</l>
                   </lg>
                   <lg>
-                     <pb n="111" facs="tcp:023246_0118_0FBEF090D24BBF10"/>
+                     <pb n="111" facs="unknown:023246_0118_0FBEF090D24BBF10"/>
                      <l>Not the mad tribe that hell inſpires</l>
                      <l>With wanton flames; thoſe raging fires</l>
                      <l>The purer bliſs deſtroy;</l>
@@ -6321,7 +6323,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>WHY ſhould our joys transform to pain?</l>
                      <l>Why gentle Hymen's ſilken chain</l>
                      <l>
-                        <pb n="112" facs="tcp:023246_0119_0FBEF0941EE6EF38"/>A plague of iron prove?</l>
+                        <pb n="112" facs="unknown:023246_0119_0FBEF0941EE6EF38"/>A plague of iron prove?</l>
                      <l>BENDISH, 'tis ſtrange, the charm that binds</l>
                      <l>Millions of hands, ſhould leave their minds</l>
                      <l>At ſuch a looſe from love.</l>
@@ -6376,7 +6378,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>"On Europe's barbarous lands.</l>
                   </lg>
                   <lg>
-                     <pb n="113" facs="tcp:023246_0120_0FBEF0958561C308"/>
+                     <pb n="113" facs="unknown:023246_0120_0FBEF0958561C308"/>
                      <l>"Happy the youth that finds the bride,</l>
                      <l>"Whoſe birth is to his own ally'd,</l>
                      <l>"The ſweeteſt joy of life!</l>
@@ -6422,7 +6424,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>To purchaſe thee, from caverns deep,</l>
                   <l>The miſer brings his treaſur'd heap.</l>
                   <l>
-                     <pb n="114" facs="tcp:023246_0121_0FBEF096F9A67410"/>The ſage, with Reaſon's boaſted arms,</l>
+                     <pb n="114" facs="unknown:023246_0121_0FBEF096F9A67410"/>The ſage, with Reaſon's boaſted arms,</l>
                   <l>A while may combat Beauty's charms;</l>
                   <l>But ſoon a burſting ſigh will prove,</l>
                   <l>That Reaſon never conquers Love.</l>
@@ -6465,7 +6467,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>In vain the ſtealing hand of Time</l>
                   <l>May pluck the bloſſoms of their prime.</l>
                   <l>
-                     <pb n="115" facs="tcp:023246_0122_0FBEF09CB6E7E880"/>Envy may talk of bloom decay'd,</l>
+                     <pb n="115" facs="unknown:023246_0122_0FBEF09CB6E7E880"/>Envy may talk of bloom decay'd,</l>
                   <l>How lilies droop, and roſes fade;</l>
                   <l>But Conſtancy's unalter'd truth,</l>
                   <l>Regardful of the vows of youth,</l>
@@ -6527,7 +6529,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The child of Sorrow and of Miſery.</l>
                   </lg>
                   <lg>
-                     <pb n="116" facs="tcp:023246_0123_0FBEF09E7B34A978"/>
+                     <pb n="116" facs="unknown:023246_0123_0FBEF09E7B34A978"/>
                      <l>A little farm was my paternal lot,</l>
                      <l>Then, like the lark, I ſprightly hail'd the morn;</l>
                      <l>But ah! oppreſſion forc'd me from my cot;</l>
@@ -6577,7 +6579,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>"Says all that the old ſages ſaid<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="117" facs="tcp:023246_0124_0FBEF09FF85C2578"/>"For me theſe ſhatter'd tombs contain</l>
+                     <pb n="117" facs="unknown:023246_0124_0FBEF09FF85C2578"/>"For me theſe ſhatter'd tombs contain</l>
                   <l>"More morals than the Vatican.</l>
                   <l>"The duſt of heroes, caſt abroad,</l>
                   <l>"And kick'd, and trampled in the road,</l>
@@ -6621,7 +6623,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>I've an averſion to thoſe charms,</l>
                      <l>And hug dear liberty in both mine arms.</l>
                      <l>
-                        <pb n="118" facs="tcp:023246_0125_0FBEF0A50505C440"/>Go, vaſſal-ſouls, go, cringe and wait,</l>
+                        <pb n="118" facs="unknown:023246_0125_0FBEF0A50505C440"/>Go, vaſſal-ſouls, go, cringe and wait,</l>
                      <l>And dance attendance at Honorio's gate;</l>
                      <l>Then run in troops before him to compoſe his ſtate:</l>
                      <l>Move, as he moves; and, when he loiters, ſtand;</l>
@@ -6669,7 +6671,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="119" facs="tcp:023246_0126_0FBEF0A60B8EC168"/>
+                  <pb n="119" facs="unknown:023246_0126_0FBEF0A60B8EC168"/>
                   <head>ON THE PROSPECT OF ARTS AND SCIENCES IN AMERICA. Written near ſixty years ago by the celebrated dr. George Berkley, dean of Derry, and afterwards lord biſhop of Cloyne, while he was in America.</head>
                   <lg>
                      <l>THE muſe, diſguſted at an age and clime,</l>
@@ -6718,7 +6720,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The momentary breeze—the vital breath</l>
                      <l>Expiring ſunk!—Let Friendſhip's holy tear</l>
                      <l>
-                        <pb n="120" facs="tcp:023246_0127_0FBEF0A7B9F96A58"/>Embalm her dead, as low he lies.</l>
+                        <pb n="120" facs="unknown:023246_0127_0FBEF0A7B9F96A58"/>Embalm her dead, as low he lies.</l>
                      <l>To weep another's fare oft reaches to be wiſe.</l>
                   </lg>
                   <lg>
@@ -6781,7 +6783,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>To dry the mourner's pious ſtream,</l>
                      <l>And ſoften ſorrow to eſteem.</l>
                      <l>
-                        <pb n="121" facs="tcp:023246_0128_0FBEF0A95D2E7968"/>Does Ambition toil to raiſe</l>
+                        <pb n="121" facs="unknown:023246_0128_0FBEF0A95D2E7968"/>Does Ambition toil to raiſe</l>
                      <l>Trophies to immortal praiſe?</l>
                      <l>Truſt not—tho' ſtrong her paſſions burn—</l>
                      <l>Truſt not the marble's flattering ſtile:</l>
@@ -6836,7 +6838,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>On THULE's deſert ſhores,</l>
                      <l>Wild raving to the unfeeling air,</l>
                      <l>
-                        <pb n="122" facs="tcp:023246_0129_0FBEF0AB0BCF77D0"/>The fetter'd maniac foams along,</l>
+                        <pb n="122" facs="unknown:023246_0129_0FBEF0AB0BCF77D0"/>The fetter'd maniac foams along,</l>
                      <l>(Rage the burden of his jarring ſong)</l>
                      <l>In rage he grinds his teeth, and rends his ſtreaming hair.</l>
                   </lg>
@@ -6893,7 +6895,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Thou, fair Religion, waſt deſign'd,</l>
                      <l>Duteous daughter of the ſkies,</l>
                      <l>
-                        <pb n="123" facs="tcp:023246_0130_0FBEF0AF6A89FFD8"/>To warm and chear the human mind,</l>
+                        <pb n="123" facs="unknown:023246_0130_0FBEF0AF6A89FFD8"/>To warm and chear the human mind,</l>
                      <l>To make men happy, good, and wiſe.</l>
                      <l>To point where ſits, in love array'd,</l>
                      <l>Attentive to each ſuppliant call,</l>
@@ -6943,7 +6945,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Make but the dear Amanda mine.</l>
                </div>
                <div type="poem">
-                  <pb n="124" facs="tcp:023246_0131_0FBEF0B0847B0C88"/>
+                  <pb n="124" facs="unknown:023246_0131_0FBEF0B0847B0C88"/>
                   <head>Verſes occaſioned by the burning of mr. Wilberforce's effigy at Briſtol.</head>
                   <lg>
                      <l>"WHEN vice prevails, and impious men bear ſway,</l>
@@ -6973,7 +6975,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                <trailer>END OF THE BRITISH POETRY.</trailer>
             </div>
             <div n="2" type="part">
-               <pb facs="tcp:023246_0132_0FBEF0B20E1E8850"/>
+               <pb facs="unknown:023246_0132_0FBEF0B20E1E8850"/>
                <head>BEAUTIES OF POETRY</head>
                <head>SECOND PART. FROM AMERICAN POETS.</head>
                <div type="poem">
@@ -7009,7 +7011,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                            <desc>••</desc>
                         </gap>.</l>
                      <l>
-                        <pb n="126" facs="tcp:023246_0133_0FBEF0B79BDAF758"/>To thee, the laſt refuge of virtue deſign'd,</l>
+                        <pb n="126" facs="unknown:023246_0133_0FBEF0B79BDAF758"/>To thee, the laſt refuge of virtue deſign'd,</l>
                      <l>Shall fly from all nations the beſt of mankind;</l>
                      <l>Here, grateful to heaven, with tranſport ſhall bring</l>
                      <l>Their incenſe, more fragrant than odours of ſpring.</l>
@@ -7058,7 +7060,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Her ear is open to the orphan's cry,</l>
                   <l>Her ſoul expanding, as the poor paſs by.</l>
                   <l>
-                     <pb n="127" facs="tcp:023246_0134_0FBEF0B8C9C7D090"/>From her bleſs'd tongue, the words of manna flow,</l>
+                     <pb n="127" facs="unknown:023246_0134_0FBEF0B8C9C7D090"/>From her bleſs'd tongue, the words of manna flow,</l>
                   <l>And carry courage to deſponding Woe.</l>
                   <l>Objects of aid ſhe ſeeks, through all the land,</l>
                   <l>Diffuſing bounty with a Saviour's hand.</l>
@@ -7096,7 +7098,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>When Melancholy's ſhades begloom,</l>
                   <l>And Hope ſeems bending o'er her tomb,</l>
                   <l>
-                     <pb n="128" facs="tcp:023246_0135_0FBEF0BA5C8A8C90"/>Ah! where ſhall wretched mortals fly,</l>
+                     <pb n="128" facs="unknown:023246_0135_0FBEF0BA5C8A8C90"/>Ah! where ſhall wretched mortals fly,</l>
                   <l>Or how eſcape from miſery?</l>
                   <l>Teach, oh! teach me, pow'rs above,</l>
                   <l>How theſe feelings to remove—</l>
@@ -7139,7 +7141,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Sweet Senſibility! the pow'r</l>
                   <l>I ſtill will cheriſh and adore:</l>
                   <l>
-                     <pb n="129" facs="tcp:023246_0136_0FBEF0BBB80F8830"/>Though now by care and love oppreſs'd,</l>
+                     <pb n="129" facs="unknown:023246_0136_0FBEF0BBB80F8830"/>Though now by care and love oppreſs'd,</l>
                   <l>They cannot always pain my breaſt.</l>
                   <l>Time will obliterate the ills,</l>
                   <l>Which now my tortur'd boſom feels;</l>
@@ -7185,7 +7187,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>There fix our love—thence draw our hope<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="130" facs="tcp:023246_0137_0FBEF0C0A2FD2358"/>Thine aid, to cheer our minds, implore,</l>
+                     <pb n="130" facs="unknown:023246_0137_0FBEF0C0A2FD2358"/>Thine aid, to cheer our minds, implore,</l>
                   <l>When ſorrow glooms the preſent hour;</l>
                   <l>When peace and reſt our boſoms flee—</l>
                   <l>For comfort we'll reſort to thee—</l>
@@ -7233,7 +7235,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>No raging murrain on your cattle ſeize,</l>
                   <l>And nature ſicken with the dire diſeaſe.</l>
                   <l>
-                     <pb n="131" facs="tcp:023246_0138_0FBEF0C1C89A1278"/>But golden years, anew, begin their reigns,</l>
+                     <pb n="131" facs="unknown:023246_0138_0FBEF0C1C89A1278"/>But golden years, anew, begin their reigns,</l>
                   <l>And cloudleſs ſun-ſhine gild ſalubrious plains.</l>
                   <l>Herbs, fruits, and flow'rs ſhall clothe th' uncultur'd field</l>
                   <l>Nectareous juice, the vine and orchard yield,</l>
@@ -7276,7 +7278,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Or cauſe the hamlet, lull'd in deep repoſe,</l>
                   <l>No more to wake, or wake to ceaſeleſs woes:</l>
                   <l>
-                     <pb n="132" facs="tcp:023246_0139_0FBEF0C3424BA198"/>For your ſtrong arm the guarded band ſecures,</l>
+                     <pb n="132" facs="unknown:023246_0139_0FBEF0C3424BA198"/>For your ſtrong arm the guarded band ſecures,</l>
                   <l>And freedom, glory, happineſs are yours.</l>
                   <l>So ſhall you flouriſh in unfading prime,</l>
                   <l>Each age refining thro' the reign of time;</l>
@@ -7319,7 +7321,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Where now the thorn, or tangled thicket grows,</l>
                   <l>The wilderneſs ſhall bloſſom as the roſe,</l>
                   <l>
-                     <pb n="133" facs="tcp:023246_0140_0FBEF0C52C93E550"/>Unbounded deſerts unknown charms aſſume,</l>
+                     <pb n="133" facs="unknown:023246_0140_0FBEF0C52C93E550"/>Unbounded deſerts unknown charms aſſume,</l>
                   <l>Like Salem flouriſh, and like Eden bloom.</l>
                   <l>And oh, may heav'n, when all our toils are paſt,</l>
                   <l>Crown with ſuch happineſs our days at laſt:</l>
@@ -7362,7 +7364,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The cattle fed—the fuel pil'd within—</l>
                   <l>At ſetting day, the bliſsful hours begin:</l>
                   <l>
-                     <pb n="134" facs="tcp:023246_0141_0FBEF0C70177A028"/>'Tis then, ſole owner of his little cot,</l>
+                     <pb n="134" facs="unknown:023246_0141_0FBEF0C70177A028"/>'Tis then, ſole owner of his little cot,</l>
                   <l>The farmer feels his independent lot;</l>
                   <l>Hears with the crackling blaze, that lights the wall,</l>
                   <l>The voice of gladneſs and of nature call,</l>
@@ -7411,7 +7413,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Hail, hallow'd wedlock! pureſt, happieſt ſtate,</l>
                   <l>Thy untry'd raptures let my ſong relate:</l>
                   <l>
-                     <pb n="135" facs="tcp:023246_0142_0FBEF0CB7668B600"/>Give me, ere long, thy myſteries to prove,</l>
+                     <pb n="135" facs="unknown:023246_0142_0FBEF0CB7668B600"/>Give me, ere long, thy myſteries to prove,</l>
                   <l>And taſte, as well as ſing, the ſweets of love!</l>
                   <l>Ye blooming daughters of the weſtern world,</l>
                   <l>Whoſe graceful locks by artleſs hands are curl'd,</l>
@@ -7468,7 +7470,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Which warm, and cheer, and vivify the whole<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="136" facs="tcp:023246_0143_0FBEF0CC3B9324F8"/>Here the fair ſex an equal honour claims,</l>
+                     <pb n="136" facs="unknown:023246_0143_0FBEF0CC3B9324F8"/>Here the fair ſex an equal honour claims,</l>
                   <l>Wakes chaſte deſire, nor burns with lawleſs flames:</l>
                   <l>No eaſtern manners, here, conſign the charms</l>
                   <l>Of beauteous ſlaves to ſome loath'd maſter's arms<g ref="char:punc">▪</g>
@@ -7515,7 +7517,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And light a ſmile on the wan cheek of death!</l>
                </div>
                <div type="poem">
-                  <pb n="137" facs="tcp:023246_0144_0FBEF0CDB9BF9D78"/>
+                  <pb n="137" facs="unknown:023246_0144_0FBEF0CDB9BF9D78"/>
                   <head>Depredations and deſtruction of the Algerines. HUMPHREYS.</head>
                   <l>BUT what dark proſpect interrupts our joy?</l>
                   <l>What arm, preſumptuous, dares our trade annoy?</l>
@@ -7557,7 +7559,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Come thou, ſweet Feeling of another's woe,</l>
                   <l>That mak'ſt the heart to melt, the eye to flow!</l>
                   <l>
-                     <pb n="138" facs="tcp:023246_0145_0FBEF0D4010D97A0"/>Come thou, keen Feeling, livelieſt ſenſe of wrong<g ref="char:punc">▪</g>
+                     <pb n="138" facs="unknown:023246_0145_0FBEF0D4010D97A0"/>Come thou, keen Feeling, livelieſt ſenſe of wrong<g ref="char:punc">▪</g>
                   </l>
                   <l>Aid Indignation, and inſpire my ſong!</l>
                   <l>Teach me the woes of ſlavery to paint,</l>
@@ -7606,7 +7608,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Whoſe plagues aſtoniſh, and whoſe horrors ſhock<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="139" facs="tcp:023246_0146_0FBEF0D5487A9BC8"/>Great maledictions of eternal wrath,</l>
+                     <pb n="139" facs="unknown:023246_0146_0FBEF0D5487A9BC8"/>Great maledictions of eternal wrath,</l>
                   <l>Which, like heav'n's vial'd vengeance, ſinge and ſcathe!</l>
                   <l>Transfix with ſcorpion ſtings the callous heart!</l>
                   <l>Make blood-ſhot eye-balls from their ſockets ſtart!</l>
@@ -7665,7 +7667,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Is it becauſe ye meanly wiſh to ſee</l>
                   <l>Your rivals chain'd, yourſelves ignobly free?</l>
                   <l>
-                     <pb n="140" facs="tcp:023246_0147_0FBEF0D6B9F9C048"/>Who gave commiſſion to theſe monſters fierce,</l>
+                     <pb n="140" facs="unknown:023246_0147_0FBEF0D6B9F9C048"/>Who gave commiſſion to theſe monſters fierce,</l>
                   <l>To hold in chains the humbled univerſe?</l>
                   <l>Would God, would nature, would their conqu'ring ſwords,</l>
                   <l>Without your meanneſs, make them ocean's lords?</l>
@@ -7716,7 +7718,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Wilt thou not riſe, O God, to plead our cauſe,</l>
                   <l>Aſſert thine honour, and defend thy laws!</l>
                   <l>
-                     <pb n="141" facs="tcp:023246_0148_0FBEF0D8384FEC90"/>Wilt thou not bend thine awful throne to hear</l>
+                     <pb n="141" facs="unknown:023246_0148_0FBEF0D8384FEC90"/>Wilt thou not bend thine awful throne to hear</l>
                   <l>The pris'ner's cry, and ſtop the falling tear!</l>
                   <l>Wilt thou not ſtrike the guilty race with dread,</l>
                   <l>On impious realms thy tenfold fury ſhed!</l>
@@ -7768,7 +7770,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <desc>•</desc>
                      </gap>s rear their heads,</l>
                   <l>
-                     <pb n="142" facs="tcp:023246_0149_0FBEF0DE30D3A240"/>Snuff in the tainted gale the ſulph'rous grain,</l>
+                     <pb n="142" facs="unknown:023246_0149_0FBEF0DE30D3A240"/>Snuff in the tainted gale the ſulph'rous grain,</l>
                   <l>Reſponſive neigh, and prance the wide champaign<g ref="char:punc">▪</g>
                   </l>
                   <l>Now preparation forms the gleaming blade;</l>
@@ -7823,7 +7825,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The battle cloſes—fiercer fights begin—</l>
                   <l>And hollow hulls reverberate the din:</l>
                   <l>
-                     <pb n="143" facs="tcp:023246_0150_0FBEF0DF668B14A8"/>The green waves blacken, as the tempeſt lours,</l>
+                     <pb n="143" facs="unknown:023246_0150_0FBEF0DF668B14A8"/>The green waves blacken, as the tempeſt lours,</l>
                   <l>Chain bol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s and language rain in dreadful ſhow'rs;</l>
@@ -7887,7 +7889,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Oh then let vict'ry ſtimulate the chace,</l>
                   <l>To free from ſhameful chains the human race,</l>
                   <l>
-                     <pb n="144" facs="tcp:023246_0151_0FBEF0E0824A1AF8"/>To drive theſe pirates from th' inſulted waves,</l>
+                     <pb n="144" facs="unknown:023246_0151_0FBEF0E0824A1AF8"/>To drive theſe pirates from th' inſulted waves,</l>
                   <l>To ope their dungeons to deſpairing ſlaves,</l>
                   <l>To ſnatch from impious hands, and break the rod,</l>
                   <l>Which erſt defac'd the likeneſs of a God:</l>
@@ -7936,7 +7938,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Here walks in darkneſs, thirſting ſtill for gore,</l>
                   <l>And raves, unfated, round the deſert ſhore.</l>
                   <l>
-                     <pb n="145" facs="tcp:023246_0152_0FBEF0E20E41CBA8"/>The ſandy waſte, th' immeaſurable heath,</l>
+                     <pb n="145" facs="unknown:023246_0152_0FBEF0E20E41CBA8"/>The ſandy waſte, th' immeaſurable heath,</l>
                   <l>Alone are prowl'd by animals of death.</l>
                   <l>Here tawney lions guard their goary den;</l>
                   <l>There birds of prey uſurp the haunts of men;</l>
@@ -7979,7 +7981,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>See raptur'd nations hail the kindred race,</l>
                   <l>And court the heroes to their fond embrace:</l>
                   <l>
-                     <pb n="146" facs="tcp:023246_0153_0FBEF0E38281E050"/>In fond embraces ſtrain'd, the captive clings,</l>
+                     <pb n="146" facs="unknown:023246_0153_0FBEF0E38281E050"/>In fond embraces ſtrain'd, the captive clings,</l>
                   <l>And feels and looks unutterable things.</l>
                   <l>See there, the widow finds her darling ſon,</l>
                   <l>See, in each others arms the lovers run,</l>
@@ -8023,7 +8025,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>FOR lies, quoth he, and promiſe-breaking,</l>
                   <l>Ye need not be in ſuch a taking;</l>
                   <l>
-                     <pb n="147" facs="tcp:023246_0154_0FBEF0EAA1EC0948"/>For lying is, we know and teach,</l>
+                     <pb n="147" facs="unknown:023246_0154_0FBEF0EAA1EC0948"/>For lying is, we know and teach,</l>
                   <l>The higheſt privilege of ſpeech,</l>
                   <l>The univerſal magna charta,</l>
                   <l>To which all human race is party;</l>
@@ -8068,7 +8070,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Nor have pow'r their own oaths to change?</l>
                   <l>I think the tale were very ſtrange.</l>
                   <l>
-                     <pb n="148" facs="tcp:023246_0155_0FBEF0EC82FF6908"/>Shall vows bind but the ſtout and ſtrong,</l>
+                     <pb n="148" facs="unknown:023246_0155_0FBEF0EC82FF6908"/>Shall vows bind but the ſtout and ſtrong,</l>
                   <l>And let go women, weak and young,</l>
                   <l>As nets encloſe the larger crew,</l>
                   <l>And let the ſmaller fry creep through?</l>
@@ -8111,7 +8113,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Or when of late attack'd by thoſe,</l>
                   <l>Whom her connexion made your foes,</l>
                   <l>
-                     <pb n="149" facs="tcp:023246_0156_0FBEF0EDF8DBC170"/>Did they not, then, diſtreſt in war,</l>
+                     <pb n="149" facs="unknown:023246_0156_0FBEF0EDF8DBC170"/>Did they not, then, diſtreſt in war,</l>
                   <l>Send gen'rals to your help from far,</l>
                   <l>Whoſe aid you own'd in terms leſs haughty,</l>
                   <l>And thankfully o'erpaid your quota?</l>
@@ -8156,7 +8158,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>ow, with conſcience clear,</l>
                   <l>Refuſe them an aſylum here?</l>
                   <l>
-                     <pb n="150" facs="tcp:023246_0157_0FBEF0F34C509A68"/>Or not maintain, in manner fitting,</l>
+                     <pb n="150" facs="unknown:023246_0157_0FBEF0F34C509A68"/>Or not maintain, in manner fitting,</l>
                   <l>Theſe genuine ſons of mother Britain?</l>
                   <l>T' evade theſe crimes of blackeſt grain,</l>
                   <l>Ye prate of liberty in vain,</l>
@@ -8199,7 +8201,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Did not the valiant colonel Grant</l>
                   <l>Againſt your courage make his ſlant,</l>
                   <l>
-                     <pb n="151" facs="tcp:023246_0158_0FBEF0F4C2494038"/>Affirm your univerſal failure</l>
+                     <pb n="151" facs="unknown:023246_0158_0FBEF0F4C2494038"/>Affirm your univerſal failure</l>
                   <l>In every principle of valour,</l>
                   <l>And ſwear no ſcamp'rers e'er could match you,</l>
                   <l>So ſwift, a bullet ſcarce could catch you?</l>
@@ -8240,7 +8242,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And for the civil law you lament,</l>
                   <l>Faith, you yourſelves muſt take the blame in't;</l>
                   <l>
-                     <pb n="152" facs="tcp:023246_0159_0FBEF0F637CA7C68"/>For had you then, as he intended,</l>
+                     <pb n="152" facs="unknown:023246_0159_0FBEF0F637CA7C68"/>For had you then, as he intended,</l>
                   <l>Giv'n up your arms, it muſt have ended;</l>
                   <l>Since that's no war, each mortal knows,</l>
                   <l>Where one ſide only gives the blows,</l>
@@ -8287,7 +8289,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap> Gage extols, from gen'ral hearſay,</l>
                   <l>The great activ'ty of lord Piercy,</l>
                   <l>
-                     <pb n="153" facs="tcp:023246_0160_0FBEF0FA68F634C0"/>Whoſe brave example led them on,</l>
+                     <pb n="153" facs="unknown:023246_0160_0FBEF0FA68F634C0"/>Whoſe brave example led them on,</l>
                   <l>And ſpirited the troops to run;</l>
                   <l>And now may boaſt, at royal levees,</l>
                   <l>A yankey chace worth forty chevys.</l>
@@ -8329,7 +8331,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Did there ariſe an apparition,</l>
                   <l>But grinn'd forth ruin to ſedition?</l>
                   <l>
-                     <pb n="154" facs="tcp:023246_0161_0FBEF0FC421C8700"/>A death-watch, but has join'd our leagues,</l>
+                     <pb n="154" facs="unknown:023246_0161_0FBEF0FC421C8700"/>A death-watch, but has join'd our leagues,</l>
                   <l>And click'd deſtruction to the whigs?</l>
                   <l>Heard ye not when the wind was fair,</l>
                   <l>At night, our or'tors in the air,</l>
@@ -8375,7 +8377,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>What lordſhips from each carv'd eſtate,</l>
                   <l>On our New-York aſſembly wait!</l>
                   <l>
-                     <pb n="155" facs="tcp:023246_0162_0FBEF0FDC13FB3C0"/>What titled Jauneys, Gales, and Billops;</l>
+                     <pb n="155" facs="unknown:023246_0162_0FBEF0FDC13FB3C0"/>What titled Jauneys, Gales, and Billops;</l>
                   <l>Lord Bruſh, lord Wilkins, and lord Philips!</l>
                   <l>In wide-ſleeve pomp of godly guiſe,</l>
                   <l>What ſolemn rows of biſhops riſe!</l>
@@ -8418,7 +8420,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>COLUMBUS look'd; and ſtill around them ſpread,</l>
                   <l>From ſouth to north, th' immeaſurable ſhade;</l>
                   <l>
-                     <pb n="156" facs="tcp:023246_0163_0FBEF1023B527660"/>At laſt, the central ſhadows burſt away,</l>
+                     <pb n="156" facs="unknown:023246_0163_0FBEF1023B527660"/>At laſt, the central ſhadows burſt away,</l>
                   <l>And riſing regions open'd on the day.</l>
                   <l>He ſaw, once more, bright Del'ware's ſilver ſtream,</l>
                   <l>And Penn's throng'd city caſt a cheerful gleam;</l>
@@ -8461,7 +8463,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Beneath him lies the ſceptre kings have borne,</l>
                   <l>And crowns and laurels from their temples torn.</l>
                   <l>
-                     <pb n="157" facs="tcp:023246_0164_0FBEF103B98860D8"/>Naſh, Rutledge, Jefferſon, in council great,</l>
+                     <pb n="157" facs="unknown:023246_0164_0FBEF103B98860D8"/>Naſh, Rutledge, Jefferſon, in council great,</l>
                   <l>And Jay and Laurens op'd the rolls of fate.</l>
                   <l>The Livingſtons, fair Freedom's gen'rous band,</l>
                   <l>The Lees, the Houſtons, fathers of the land,</l>
@@ -8506,7 +8508,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And laſhing waves hiſs round the burning ſhore,</l>
                      <l>
                         <pb n="158"
-                            facs="tcp:023246_0165_0FBEF1053AEB5408"
+                            facs="unknown:023246_0165_0FBEF1053AEB5408"
                             rendition="simple:additions"/>Thro' the deep folding fires, a neighbouring height</l>
                      <l>Thunders o'er all, and ſeems a field of fight.</l>
                      <l>Like ſhadowy phantoms in an evening grove,</l>
@@ -8550,7 +8552,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>High in the frowning front exalted ſhone</l>
                      <l>A hero<g ref="char:punc">▪</g> pointing tow'rd the half-ſeen ſon;</l>
                      <l>
-                        <pb n="159" facs="tcp:023246_0166_0FBEF1072F656858"/>As, thro' the miſt the burſting ſplendors glow,</l>
+                        <pb n="159" facs="unknown:023246_0166_0FBEF1072F656858"/>As, thro' the miſt the burſting ſplendors glow,</l>
                      <l>And light the paſſage to the diſtant foe;</l>
                      <l>His waving ſteel returns the living day,</l>
                      <l>Clears the broad plains and marks the warrior's way;</l>
@@ -8607,7 +8609,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And bold St. Clair in front of thouſands ſtands<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="160" facs="tcp:023246_0167_0FBEF109B8E94660"/>There gallant Knox his moving engines brings,</l>
+                        <pb n="160" facs="unknown:023246_0167_0FBEF109B8E94660"/>There gallant Knox his moving engines brings,</l>
                      <l>Mounted and grav'd, <note n="*" place="bottom">
                            <hi>Ultima ratio regum;</hi> a device of Louis XIV. en<g ref="char:EOLhyphen"/>graved on his ordinance.</note>
                         <hi>the laſt reſort of kings;</hi>
@@ -8653,7 +8655,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>As wreaths of morning miſt aſcend on high</l>
                      <l>Up the tall mountain's ſide and reach the ſky,</l>
                      <l>
-                        <pb n="161" facs="tcp:023246_0168_0FBEF10E6E8BDCF0"/>So roſe the rapid hoſt; the walls are red</l>
+                        <pb n="161" facs="unknown:023246_0168_0FBEF10E6E8BDCF0"/>So roſe the rapid hoſt; the walls are red</l>
                      <l>With flaſhing flames; down roll the heaps of dead,</l>
                      <l>Now back recoil the ranks, o'er ſquadrons ſlain,</l>
                      <l>And leave their leader, with a ſcanty train,</l>
@@ -8698,7 +8700,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Tall on the boldeſt bark, ſuperior ſhone</l>
                      <l>A warrior, enſign'd with a various crown:</l>
                      <l>
-                        <pb n="162" facs="tcp:023246_0169_0FBEF10FC7B4A418"/>Myrtles and laurels equal honour join'd,</l>
+                        <pb n="162" facs="unknown:023246_0169_0FBEF10FC7B4A418"/>Myrtles and laurels equal honour join'd,</l>
                      <l>Which arms had purchas'd, and the muſes twin'd;</l>
                      <l>His ſword wav'd forward; and his ardent eye</l>
                      <l>Seem'd ſharing empires in the ſouthern ſky.</l>
@@ -8756,7 +8758,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And now Columbia, circling round the field,</l>
                      <l>Points her full force; the trembling thouſands yield;</l>
                      <l>
-                        <pb n="163" facs="tcp:023246_0170_0FBEF1117973F648"/>When bold Burgoyne, in one diſaſtrous day,</l>
+                        <pb n="163" facs="unknown:023246_0170_0FBEF1117973F648"/>When bold Burgoyne, in one diſaſtrous day,</l>
                      <l>Sees future crowns and former wreaths decay;</l>
                      <l>While two illuſtrious armies ſhade the plain,</l>
                      <l>The mighty victors and the captive train.</l>
@@ -8801,7 +8803,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Where o'er her ſtreams beleaguer'd Charleſton roſe,</l>
                      <l>The hero moves, to meet the aſſembled foes.</l>
                      <l>
-                        <pb n="164" facs="tcp:023246_0171_0FBEF1156726B098"/>Shading th' invaded iſle, on either flood,</l>
+                        <pb n="164" facs="unknown:023246_0171_0FBEF1156726B098"/>Shading th' invaded iſle, on either flood,</l>
                      <l>Red ſtandards wav'd, and winged batt'ries rode;</l>
                      <l>While, braving death his ſcanty hoſt remains,</l>
                      <l>And the dread ſtrife with various fate ſuſtains.</l>
@@ -8845,7 +8847,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Morgan and Smallwood various ſhocks ſuſtain<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="165" facs="tcp:023246_0172_0FBEF118B5A10CB8"/>When Greene, in lonely greatneſs, roſe to view,</l>
+                        <pb n="165" facs="unknown:023246_0172_0FBEF118B5A10CB8"/>When Greene, in lonely greatneſs, roſe to view,</l>
                      <l>A ſew firm patriots to his ſtandard drew;</l>
                      <l>And, moving ſtately to a riſing ground,</l>
                      <l>Bade the loud trump to ſpeedy vengeance ſound;</l>
@@ -8893,7 +8895,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>As hov'ring clouds, when morning beams ariſe,</l>
                      <l>Hang their red curtains round the eaſtern ſkies,</l>
                      <l>
-                        <pb n="166" facs="tcp:023246_0173_0FBEF1198351F5D8"/>Unfold a ſpace to hail the promis'd ſun,</l>
+                        <pb n="166" facs="unknown:023246_0173_0FBEF1198351F5D8"/>Unfold a ſpace to hail the promis'd ſun,</l>
                      <l>And catch their ſplendors from his riſing throne;</l>
                      <l>Thus glow'd th' approaching fronts, whoſe ſteely glare</l>
                      <l>Glanc'd o'er the hideous interval of war.</l>
@@ -8936,7 +8938,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>When o'er the main, from Gallia's crouded ſhore,</l>
                      <l>To the glad ſtrife a hoſt of heroes pour.</l>
                      <l>
-                        <pb n="167" facs="tcp:023246_0174_0FBEF11B02472910"/>On the tall, ſhaded decks the leaders ſtand,</l>
+                        <pb n="167" facs="unknown:023246_0174_0FBEF11B02472910"/>On the tall, ſhaded decks the leaders ſtand,</l>
                      <l>View leſſening waves, and hail th' approaching ſtrand<g ref="char:punc">▪</g>
                      </l>
                      <l>Brave Rochambea<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8986,7 +8988,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>While thus the raptur'd chief his conqueſts view'd,</l>
                      <l>And gazing thouſands round the rampart ſtood,</l>
                      <l>
-                        <pb n="168" facs="tcp:023246_0175_0FBEF11DD09D9DC8"/>Whom future eaſe and golden dreams employ,</l>
+                        <pb n="168" facs="unknown:023246_0175_0FBEF11DD09D9DC8"/>Whom future eaſe and golden dreams employ,</l>
                      <l>The ſongs of triumph and the feaſt of joy;</l>
                      <l>Sudden, great Waſhington aroſe in view,</l>
                      <l>And union'd flags his ſtarely ſteps purſue;</l>
@@ -9036,7 +9038,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>When up the bay, Virginian lands that laves,</l>
                      <l>Great Gallia's line its conqu'ring ſtandard waves:</l>
                      <l>
-                        <pb n="169" facs="tcp:023246_0176_0FBEF123A05348A8"/>Where ſtill dread Waſhington illumes the way,</l>
+                        <pb n="169" facs="unknown:023246_0176_0FBEF123A05348A8"/>Where ſtill dread Waſhington illumes the way,</l>
                      <l>And fleets and moving realms his voice obey;</l>
                      <l>While the brave Briton, mid the gath'ring hoſt,</l>
                      <l>Perceives his glories and his empire loſt.</l>
@@ -9085,7 +9087,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Now grateful truce ſuſpends the burning war,</l>
                      <l>And groans and ſhouts, promiſcuous, load the air</l>
                      <l>
-                        <pb n="170" facs="tcp:023246_0177_0FBEF124C069BA68"/>When the pent ſquadrons, where the ſmokes decay,</l>
+                        <pb n="170" facs="unknown:023246_0177_0FBEF124C069BA68"/>When the pent ſquadrons, where the ſmokes decay,</l>
                      <l>Drop all their arms, and move in open day.</l>
                      <l>Columbus ſaw th' immeaſurable train,</l>
                      <l>Thouſands on thouſands, redden all the plain:</l>
@@ -9128,7 +9130,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The pointed ſteel o'er-top th' aſcending ſpire,</l>
                   <l>And lead o'er trembling walls the harmleſs fire;</l>
                   <l>
-                     <pb n="171" facs="tcp:023246_0178_0FBEF1265DE4F828"/>In his glad fame while diſtant worlds rejoice,</l>
+                     <pb n="171" facs="unknown:023246_0178_0FBEF1265DE4F828"/>In his glad fame while diſtant worlds rejoice,</l>
                   <l>Far as the lightnings ſhine, or thunders raiſe their voice,</l>
                   <l>See the ſage Rittenhouſe, with ardent eye,</l>
                   <l>Lift the long tube, and pierce the ſtarry ſky;</l>
@@ -9170,7 +9172,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </gap>mb'ring heroes wait his wakening call,</l>
                   <l>And diſtant ages fill the ſtoried wall.</l>
                   <l>
-                     <pb n="172" facs="tcp:023246_0179_0FBEF127B8122810"/>With rival force, ſee Copley's pencil trace</l>
+                     <pb n="172" facs="unknown:023246_0179_0FBEF127B8122810"/>With rival force, ſee Copley's pencil trace</l>
                   <l>The air of action and the charms of face;</l>
                   <l>Fair in his tints unfold the ſcenes of ſtate,</l>
                   <l>The ſenate liſtens and the peers debate;</l>
@@ -9218,7 +9220,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And diff'rent pow'rs th' unrivall'd art compoſe.</l>
                </div>
                <div type="poem">
-                  <pb n="173" facs="tcp:023246_0180_0FBEF12CC42EA208"/>
+                  <pb n="173" facs="unknown:023246_0180_0FBEF12CC42EA208"/>
                   <head>AMERICAN POETS. BARLOW.</head>
                   <l>TO equal fame aſcends the tuneful throng,</l>
                   <l>The boaſt of genius, and the pride of ſong;</l>
@@ -9265,7 +9267,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>His country's wrongs, her duties, dangers, praiſe,</l>
                   <l>Fire his full ſoul, and animate his lays;</l>
                   <l>
-                     <pb n="174" facs="tcp:023246_0181_0FBEF12F23770678"/>Immortal Waſhington with joy ſhall own</l>
+                     <pb n="174" facs="unknown:023246_0181_0FBEF12F23770678"/>Immortal Waſhington with joy ſhall own</l>
                   <l>So fond a fav'rite and ſo great a ſon.</l>
                </div>
                <div type="poem">
@@ -9318,7 +9320,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Hail, mighty Rum! what can thy pow'r withſtand!</l>
                      <l>E'en lordly Reaſon ſlies thy dreadful face:</l>
                      <l>
-                        <pb n="175" facs="tcp:023246_0182_0FBEF1300BB2D7B0"/>And Health, and Joy, and all the lovely band</l>
+                        <pb n="175" facs="unknown:023246_0182_0FBEF1300BB2D7B0"/>And Health, and Joy, and all the lovely band</l>
                      <l>Of ſocial Virtues, ſhun thy dwelling place:</l>
                      <l>(For in whatever breaſt it rears its throne,</l>
                      <l>Like Turkiſh monarchs, Rum muſt rule alone.)</l>
@@ -9374,7 +9376,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Think not thy foes—tho' num'rous—ſhall prevail,</l>
                      <l>Thy pow'r diminiſh, or thy being end:</l>
                      <l>
-                        <pb n="176" facs="tcp:023246_0183_0FBEF13179790B10"/>Tho' ſpurn'd from table, and the public eye,</l>
+                        <pb n="176" facs="unknown:023246_0183_0FBEF13179790B10"/>Tho' ſpurn'd from table, and the public eye,</l>
                      <l>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -9434,7 +9436,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Her boldneſs Fortitude admires;</l>
                   <l>Whilſt with unſlacken'd zeal, ſhe ſeeks the glorious goal.</l>
                   <l>
-                     <pb n="177" facs="tcp:023246_0184_0FBEF133E13E9AD8"/>Her eyes the faithful chart ſurvey,</l>
+                     <pb n="177" facs="unknown:023246_0184_0FBEF133E13E9AD8"/>Her eyes the faithful chart ſurvey,</l>
                   <l>By ſacred Truth deſign'd;</l>
                   <l>By this ſhe regulates her daring way,</l>
                   <l>And gaining on the ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9483,7 +9485,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Who, warm'd by patriot cares, extends her views.</l>
                      <l>Reaſon and truth the heart-felt wiſh allow.</l>
                      <l>
-                        <pb n="178" facs="tcp:023246_0185_0FBEF1396C6A50C8"/>Hail, ſelf-dependent Induſtry!</l>
+                        <pb n="178" facs="unknown:023246_0185_0FBEF1396C6A50C8"/>Hail, ſelf-dependent Induſtry!</l>
                      <l>A nation's bliſs muſt ſpring from thee:</l>
                      <l>I form no viſionary vow;</l>
                      <l>Since active Science guides the plough;</l>
@@ -9537,7 +9539,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>"As Perſecution lights her fires.</l>
                   </lg>
                   <lg>
-                     <pb n="179" facs="tcp:023246_0186_0FBEF13A80FC1728"/>
+                     <pb n="179" facs="unknown:023246_0186_0FBEF13A80FC1728"/>
                      <l>"Aſcend the bark, expand the ſail!</l>
                      <l>"Thy God ſhall grant the fav'ring gale,</l>
                      <l>"And awe-ſtruck waves the ſhip reſpect,</l>
@@ -9591,7 +9593,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>"The voice of Charity revere;</l>
                      <l>"No holy tyrant threatens here;</l>
                      <l>
-                        <pb n="180" facs="tcp:023246_0187_0FBEF13C03663958"/>"No deſpot rules with cruel ſway;</l>
+                        <pb n="180" facs="unknown:023246_0187_0FBEF13C03663958"/>"No deſpot rules with cruel ſway;</l>
                      <l>"Securely toil, ſecurely pray.</l>
                   </lg>
                   <lg>
@@ -9643,7 +9645,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>What, tho' Winter rules the year,</l>
                      <l>Yet the joys of Spring are here:</l>
                      <l>
-                        <pb n="181" facs="tcp:023246_0188_0FBEF1414AED0328"/>Here we taſte the ſweets of May,</l>
+                        <pb n="181" facs="unknown:023246_0188_0FBEF1414AED0328"/>Here we taſte the ſweets of May,</l>
                      <l>On Eliza's natal day.</l>
                      <l>Do we want the bluſhing roſe?</l>
                      <l>In Eliza's cheek it grows:</l>
@@ -9693,7 +9695,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And, in the depth of night, conceal'd,</l>
                      <l>His dread pavilion ſtood.</l>
                      <l>
-                        <pb n="182" facs="tcp:023246_0189_0FBEF14375E2C8D8"/>The blacken'd clouds around him ſweep,</l>
+                        <pb n="182" facs="unknown:023246_0189_0FBEF14375E2C8D8"/>The blacken'd clouds around him ſweep,</l>
                      <l>And the dark waters of the deep</l>
                      <l>Enthrone their ſovereign God.</l>
                   </lg>
@@ -9740,7 +9742,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Nor doth amen from pariſh clerk ariſe.</l>
                      <l>E'en muſic's lulling charms beſeemeth wrong</l>
                      <l>
-                        <pb n="183" facs="tcp:023246_0190_0FBEF144426F2F28"/>To thoſe who did this modeſt temple rear;</l>
+                        <pb n="183" facs="unknown:023246_0190_0FBEF144426F2F28"/>To thoſe who did this modeſt temple rear;</l>
                      <l>For all, who to thoſe lonely confines throng,</l>
                      <l>Worſhip in guiſe of ſolemn ſilent prayer;</l>
                      <l>Nor can they think that words their ſinful deeds repair.</l>
@@ -9792,7 +9794,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Giving to ev'ry feat a feſtive grace,</l>
                      <l>And ſpreading chearfulneſs o'er ev'ry face,</l>
                      <l>
-                        <pb n="184" facs="tcp:023246_0191_0FBEF145E0569468"/>Let the polite, the poliſh'd, blame their joys,</l>
+                        <pb n="184" facs="unknown:023246_0191_0FBEF145E0569468"/>Let the polite, the poliſh'd, blame their joys,</l>
                      <l>Whom Nature, unconſtrain'd, can never charm:</l>
                      <l>This is the life which ennui never cloys,</l>
                      <l>Nor e'er can fell Ambition work it harm,</l>
@@ -9841,7 +9843,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And breaks in pleaſing dreams the fancied ſod;</l>
                      <l>While the ſchool-miſtreſs wields the birchen rod.</l>
                      <l>
-                        <pb n="185" facs="tcp:023246_0192_0FBEF14B2C82ED90"/>Others, more wakeful, plan their future deeds,</l>
+                        <pb n="185" facs="unknown:023246_0192_0FBEF14B2C82ED90"/>Others, more wakeful, plan their future deeds,</l>
                      <l>While on increaſe of wealth their wiſhes ſtray:</l>
                      <l>The farmer thus in rapture counts his ſteeds,</l>
                      <l>And deals to each his part of winter's hay,</l>
@@ -9894,7 +9896,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>FREEDOM's enſigns waving there.</l>
                   </lg>
                   <lg>
-                     <pb n="186" facs="tcp:023246_0193_0FBEF14CF5087638"/>
+                     <pb n="186" facs="unknown:023246_0193_0FBEF14CF5087638"/>
                      <head>RECITATIVE.</head>
                      <l>Secure from harm, the ſwain his hours employs</l>
                      <l>In healthful labours and domeſtic joys;</l>
@@ -9951,7 +9953,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         <l>To ſoothe their tyrant's rage with philoſophic lore.</l>
                      </lg>
                      <lg>
-                        <pb n="187" facs="tcp:023246_0194_0FBEF14E02B498B0"/>
+                        <pb n="187" facs="unknown:023246_0194_0FBEF14E02B498B0"/>
                         <head>ART AND NATURE.</head>
                         <l>In vain he tries, with lenient art,</l>
                         <l>To heal the cruel deſpot's heart.</l>
@@ -10003,7 +10005,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>'TIS ſaid that once upon a time,</l>
                      <l>(So tales begin, and ſo my rhyme)</l>
                      <l>
-                        <pb n="188" facs="tcp:023246_0195_0FBEF14F82B5E8A0"/>Nature held high diſpute with Art,</l>
+                        <pb n="188" facs="unknown:023246_0195_0FBEF14F82B5E8A0"/>Nature held high diſpute with Art,</l>
                      <l>Which had moſt pow'r upon the heart.</l>
                   </lg>
                   <lg>
@@ -10064,7 +10066,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>A ſpotleſs ſkin of faireſt hue,</l>
                      <l>With veins of ſky, eye-tinctur'd blue—</l>
                      <l>
-                        <pb n="189" facs="tcp:023246_0196_0FBEF1549AAD3D28"/>A boſom which conceal'd a heart</l>
+                        <pb n="189" facs="unknown:023246_0196_0FBEF1549AAD3D28"/>A boſom which conceal'd a heart</l>
                      <l>That bore in ev'ry pang a part,</l>
                      <l>And throbb'd reſponſive to each groan,</l>
                      <l>Soft Nature bade her child to own.</l>
@@ -10119,7 +10121,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="190" facs="tcp:023246_0197_0FBEF156B098A0C8"/>
+                  <pb n="190" facs="unknown:023246_0197_0FBEF156B098A0C8"/>
                   <head>THE OLD SOLDIER. FENTHAM. "Pity the ſorrows of a poor old man."</head>
                   <l>CLEAR was the blue expanſe—the day ſerene—</l>
                   <l>All nature wore an univerſal green:</l>
@@ -10162,7 +10164,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Who view with thoughtleſs eye the humble poor,</l>
                   <l>That glean their ſcanty meals from door to door;</l>
                   <l>
-                     <pb n="191" facs="tcp:023246_0198_0FBEF157BA6A77C0"/>Ah! heave for me a ſympathetic ſigh<g ref="char:punc">▪</g>
+                     <pb n="191" facs="unknown:023246_0198_0FBEF157BA6A77C0"/>Ah! heave for me a ſympathetic ſigh<g ref="char:punc">▪</g>
                   </l>
                   <l>And wipe the falling tear from Sorrow's eye.</l>
                </div>
@@ -10210,7 +10212,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="192" facs="tcp:023246_0199_0FBEEE7DA82A3618"/>
+                  <pb n="192" facs="unknown:023246_0199_0FBEEE7DA82A3618"/>
                   <head>On the migration to America, and peopling the Weſtern Country. <hi>FRENEAU.</hi>
                   </head>
                   <lg>
@@ -10262,7 +10264,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Nor longer, through a darkſome wood,</l>
                      <l>Advance, unnotic'd, to the main:</l>
                      <l>
-                        <pb n="193" facs="tcp:023246_0200_0FBEEE7EC487AEE8"/>Far other ends the fates decree,</l>
+                        <pb n="193" facs="unknown:023246_0200_0FBEEE7EC487AEE8"/>Far other ends the fates decree,</l>
                      <l>And Commerce plans new freights for thee.</l>
                   </lg>
                   <lg>
@@ -10311,7 +10313,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>It ſcorns to be happy alone.</l>
                   </lg>
                   <lg>
-                     <pb n="194" facs="tcp:023246_0201_0FBEEE80426FE2D8"/>
+                     <pb n="194" facs="unknown:023246_0201_0FBEEE80426FE2D8"/>
                      <l>That ſhepherd true happineſs knows,</l>
                      <l>Whoſe boſom by beauty is mov'd,</l>
                      <l>Who taſtes the pure pleaſure that flows,</l>
@@ -10362,7 +10364,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Who would lay down his life for her ſake.</l>
                   </lg>
                   <lg>
-                     <pb n="195" facs="tcp:023246_0202_0FBEEE82415CC910"/>
+                     <pb n="195" facs="unknown:023246_0202_0FBEEE82415CC910"/>
                      <l>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -10419,7 +10421,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Bade th' expiring world decay.</l>
                   </lg>
                   <lg>
-                     <pb n="196" facs="tcp:023246_0203_0FBEEE8547824590"/>
+                     <pb n="196" facs="unknown:023246_0203_0FBEEE8547824590"/>
                      <l>Now caſt around thy raptur'd eyes,</l>
                      <l>And ſee the beauteous ſpring ariſe;</l>
                      <l>See, flow'rs inveſt the hills again,</l>
@@ -10471,7 +10473,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Ruſh'd thro' the torrent with unequall'd might;</l>
                   <l>Your ancient ſaints would tremble at the ſight;</l>
                   <l>
-                     <pb n="197" facs="tcp:023246_0204_0FBEEE89EB1FDB20"/>Caught the ſwift boar, and ſwifter deer, with eaſe,</l>
+                     <pb n="197" facs="unknown:023246_0204_0FBEEE89EB1FDB20"/>Caught the ſwift boar, and ſwifter deer, with eaſe,</l>
                   <l>And work'd a thouſand miracles like theſe,</l>
                   <l>To public views he added private ends,</l>
                   <l>And lov'd his country moſt, and next his friends;</l>
@@ -10523,7 +10525,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The future never come.</l>
                   </lg>
                   <lg>
-                     <pb n="198" facs="tcp:023246_0205_0FBEEE8D20A41828"/>
+                     <pb n="198" facs="unknown:023246_0205_0FBEEE8D20A41828"/>
                      <l>No longer then, fair maid, delay</l>
                      <l>The promis'd ſcenes of bliſs;</l>
                      <l>Nor idly give another day,</l>
@@ -10574,7 +10576,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Columbia's fair genius fell plump in his way,</l>
                      <l>Array'd like a goddeſs, and blooming as May:</l>
                      <l>
-                        <pb n="199" facs="tcp:023246_0206_0FBEEE9006E58C78"/>"Vile monſter," ſaid ſhe, "you oppoſe me in vain;</l>
+                        <pb n="199" facs="unknown:023246_0206_0FBEEE9006E58C78"/>"Vile monſter," ſaid ſhe, "you oppoſe me in vain;</l>
                      <l>"My people ſhall ſurely their wiſhes obtain:</l>
                      <l>"You can but perplex us, and ſo mark the end on't,</l>
                      <l>"For, ſooner or later, they'll be independent."</l>
@@ -10639,7 +10641,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </l>
                   </lg>
                   <lg>
-                     <pb n="200" facs="tcp:023246_0207_0FBEEE91802B7CD0"/>
+                     <pb n="200" facs="unknown:023246_0207_0FBEEE91802B7CD0"/>
                      <l>Perhaps his laſt moments—thoſe moments of pain—</l>
                      <l>Might be ſweeten'd with proſpects of what would enſue,</l>
                      <l>When one of his children ſhould make the way plain,</l>
@@ -10703,7 +10705,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                            <desc>•</desc>
                         </gap>Gillivray's father was a native of Scotland.</l>
                      <l>
-                        <pb n="201" facs="tcp:023246_0208_0FBEEE930C4BCBF0"/>To keep up the fame</l>
+                        <pb n="201" facs="unknown:023246_0208_0FBEEE930C4BCBF0"/>To keep up the fame</l>
                      <l>Of ſaint Andrew's name,</l>
                      <l>And embelliſh'd his ſhrine with a chaplet of flowers.</l>
                   </lg>
@@ -10748,7 +10750,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                         </gap>s ſea;</l>
                      <l>Thy voice can bid the darkneſs flee.</l>
                      <l>
-                        <pb n="202" facs="tcp:023246_0209_0FBEEE94EE673DF0"/>Sweet bird! who, with the dawning day</l>
+                        <pb n="202" facs="unknown:023246_0209_0FBEEE94EE673DF0"/>Sweet bird! who, with the dawning day</l>
                      <l>Doſt to thy Maker homage pay—</l>
                      <l>And when the ſhades of eve appear,</l>
                      <l>Off'reſt up thy humble pray'r,</l>
@@ -10791,7 +10793,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Whoſe heart is kind, whoſe ſoul ſincere,</l>
                      <l>Whoſe welfare, as my life, is dear—</l>
                      <l>
-                        <pb n="203" facs="tcp:023246_0210_0FBEEE96319FEB20"/>Whoſe breaſt has felt the ſhafts of pain</l>
+                        <pb n="203" facs="unknown:023246_0210_0FBEEE96319FEB20"/>Whoſe breaſt has felt the ſhafts of pain</l>
                      <l>Struck deep into the tend'reſt vein—</l>
                      <l>Whoſe ſoul has known ſharp pangs of grief,</l>
                      <l>Beyond expreſſion and relief.</l>
@@ -10847,7 +10849,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Whoſe ſmiles could ſinking hope enliv'n,</l>
                      <l>Who ſhow'd and led the way to heav'n,</l>
                      <l>
-                        <pb n="204" facs="tcp:023246_0211_0FBEEE98FB2D6618"/>Pour'd pious precepts on our ear,</l>
+                        <pb n="204" facs="unknown:023246_0211_0FBEEE98FB2D6618"/>Pour'd pious precepts on our ear,</l>
                      <l>And with her precepts, join'd her pray'r—</l>
                      <l>That beſt of mothers—beſt of wives,</l>
                      <l>Oh! can I ſay—no more ſurvives—</l>
@@ -10894,7 +10896,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And her dark dominion ſpreads.</l>
                   </lg>
                   <lg>
-                     <pb n="205" facs="tcp:023246_0212_0FBEEE9A80493E00"/>
+                     <pb n="205" facs="unknown:023246_0212_0FBEEE9A80493E00"/>
                      <l>Brooks no more meandering run;</l>
                      <l>Streams are harden'd into ſtone;</l>
                      <l>Where the boatman oft has ply'd,</l>
@@ -10944,7 +10946,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And their admiration raiſe</l>
                      <l>With good things of ancient days:</l>
                      <l>
-                        <pb n="206" facs="tcp:023246_0213_0FBEEE9E623AF080"/>Or the works of diſtant clim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <pb n="206" facs="unknown:023246_0213_0FBEEE9E623AF080"/>Or the works of diſtant clim<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>s,</l>
                      <l>Or the news of modern times.</l>
@@ -10996,7 +10998,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>Whiſp'ring breezes bruſh the mountains;</l>
                   <l>Grots are fill'd with balmy ſteams.</l>
                   <l>
-                     <pb n="207" facs="tcp:023246_0214_0FBEEE9FC99AE0A8"/>But, ſiſter, all the ſweets that grace</l>
+                     <pb n="207" facs="unknown:023246_0214_0FBEEE9FC99AE0A8"/>But, ſiſter, all the ſweets that grace</l>
                   <l>The ſpring, and blooming nature's face—</l>
                   <l>The chirping birds,</l>
                   <l>Nor lowing herds,</l>
@@ -11045,7 +11047,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>The <hi>rider of the pale horſe,</hi> void of fear.</l>
                   <l>But why ſhould you and I forever mourn</l>
                   <l>
-                     <pb n="208" facs="tcp:023246_0215_0FBEEEA152E81E50"/>Our dear relation's death? She's gone—</l>
+                     <pb n="208" facs="unknown:023246_0215_0FBEEEA152E81E50"/>Our dear relation's death? She's gone—</l>
                   <l>We've wept enough, to prove</l>
                   <l>Our grief, and tender love:</l>
                   <l>Let joy ſucceed, and ſmiles appear,</l>
@@ -11086,7 +11088,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>"Are one new man: and bear Immanuel's name.'</l>
                </div>
                <div type="poem">
-                  <pb n="209" facs="tcp:023246_0216_0FBEEEA463ABD600"/>
+                  <pb n="209" facs="unknown:023246_0216_0FBEEEA463ABD600"/>
                   <head>THE DEITY, AND HIS DISPENSATIONS. DWIGHT.</head>
                   <lg>
                      <l>FAR, very far beyond this lower ſky,</l>
@@ -11128,7 +11130,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The birds, on painted pinions, gaily fly</l>
                      <l>Thro' the wide regions of the ſapphire ſky;</l>
                      <l>
-                        <pb n="210" facs="tcp:023246_0217_0FBEEEA7DF801258"/>Beaſts climb the cliff, or walk the ſavage wood;</l>
+                        <pb n="210" facs="unknown:023246_0217_0FBEEEA7DF801258"/>Beaſts climb the cliff, or walk the ſavage wood;</l>
                      <l>And fiſhes ſport around the foamy flood.</l>
                      <l>Theſe, with the reptile race, to time a prey,</l>
                      <l>Of duſt were faſhion'd, and to duſt decay.</l>
@@ -11177,7 +11179,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>At length, when ſickneſs brings th' expected doom,</l>
                      <l>Its powers ſhall riſe triumphant o'er the tomb,</l>
                      <l>
-                        <pb n="211" facs="tcp:023246_0218_0FBEEEA99F84C960"/>Forward to nobler ſcenes with rapture ſpring,</l>
+                        <pb n="211" facs="unknown:023246_0218_0FBEEEA99F84C960"/>Forward to nobler ſcenes with rapture ſpring,</l>
                      <l>And hail the meſſage of th' undreaded king;</l>
                      <l>While life's long ſtream its fartheſt ſhore ſhall lave,</l>
                      <l>And ſeek the boſom of th' eternal wave.</l>
@@ -11221,7 +11223,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>He ſpoke; the heav'ns with ſudden glory ſhone;</l>
                      <l>In godlike pomp burſt forth the golden ſun;</l>
                      <l>
-                        <pb n="212" facs="tcp:023246_0219_0FBEEEAB0172D1B0"/>Far thro' immenſity his kindling ray</l>
+                        <pb n="212" facs="unknown:023246_0219_0FBEEEAB0172D1B0"/>Far thro' immenſity his kindling ray</l>
                      <l>Shot life and joy, and pour'd the new-born day;</l>
                      <l>With milder luſtre roſe the charms of even,</l>
                      <l>The moon's broad beam, and all the pride of heav'n.</l>
@@ -11270,7 +11272,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>He, born to rule, with calm, uplifted brow,</l>
                      <l>Look'd down majeſtic on the world below;</l>
                      <l>
-                        <pb n="213" facs="tcp:023246_0220_0FBEEEAC7A85E348"/>To heav'n, his manſion, turn'd his thoughts ſublime,</l>
+                        <pb n="213" facs="unknown:023246_0220_0FBEEEAC7A85E348"/>To heav'n, his manſion, turn'd his thoughts ſublime,</l>
                      <l>Or rov'd far onward thro' the ſcenes of time;</l>
                      <l>O'er nature's kingdom caſt a ſearching eye,</l>
                      <l>And dar'd to trace the ſecrets of the ſky;</l>
@@ -11321,7 +11323,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="214" facs="tcp:023246_0221_0FBEEEB30FA8B678"/>
+                  <pb n="214" facs="unknown:023246_0221_0FBEEEB30FA8B678"/>
                   <head>ORIGINAL STATE OF MAN. DWIGHT.</head>
                   <lg>
                      <l>WHEN from the deep, aſcended earth and heav'n,</l>
@@ -11372,7 +11374,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The mountain's grandeur, and the ſolemn ſtorm.</l>
                   </lg>
                   <lg>
-                     <pb n="215" facs="tcp:023246_0222_0FBEEEB4C058D248"/>
+                     <pb n="215" facs="unknown:023246_0222_0FBEEEB4C058D248"/>
                      <l>But when foul guilt debas'd the beauteous mind,</l>
                      <l>The ſkies grew dim, and ſick'ning nature pin'd.</l>
                      <l>With converſe ſweet, no more kind angels came:</l>
@@ -11419,7 +11421,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Worms, born of duſt, may point their lofty way,</l>
                      <l>And ſeize the bliſs of ever-riſing day.</l>
                      <l>
-                        <pb n="216" facs="tcp:023246_0223_0FBEEEB64253DB10"/>Oft on the flow'r, emboſom'd in perfume,</l>
+                        <pb n="216" facs="unknown:023246_0223_0FBEEEB64253DB10"/>Oft on the flow'r, emboſom'd in perfume,</l>
                      <l>Thou ſeeſt gay butterflies in beauty bloom;</l>
                      <l>With curious eye, the wond'rous inſect ſcan,</l>
                      <l>By heav'n ordain'd a threefold type of man.</l>
@@ -11483,7 +11485,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And grow from light to light, in cloudleſs day<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="217" facs="tcp:023246_0224_0FBEEEB7B9F8E588"/>Mid morn's fair legions, crown'd with grace, be known</l>
+                        <pb n="217" facs="unknown:023246_0224_0FBEEEB7B9F8E588"/>Mid morn's fair legions, crown'd with grace, be known</l>
                      <l>The peer of angels, and of God the ſon.</l>
                      <l>But O what ſcenes in that far region glow!</l>
                      <l>What crowns of patience! what rewards of woe!</l>
@@ -11528,7 +11530,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Till circling years the deſtin'd period bring,</l>
                      <l>And a new Moſes lifts the daring wing,</l>
                      <l>
-                        <pb n="218" facs="tcp:023246_0225_0FBEEEBD87A06480"/>Through trackleſs ſeas, an unknown flight explores,</l>
+                        <pb n="218" facs="unknown:023246_0225_0FBEEEBD87A06480"/>Through trackleſs ſeas, an unknown flight explores,</l>
                      <l>And hails a new Canaan's promis'd ſhores.</l>
                   </lg>
                   <lg>
@@ -11596,7 +11598,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      </l>
                      <l>And the ſtrong influence of the creeping wave.</l>
                      <l>
-                        <pb n="219" facs="tcp:023246_0226_0FBEEEBF4B082860"/>In heavenly gales with endleſs verdure riſe,</l>
+                        <pb n="219" facs="unknown:023246_0226_0FBEEEBF4B082860"/>In heavenly gales with endleſs verdure riſe,</l>
                      <l>Wave o'er broad fields, and fade in friendly ſkies.</l>
                      <l>There, ſafe from driving rains, and battering hail,</l>
                      <l>And the keen fury of the wintry gale,</l>
@@ -11645,7 +11647,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   <l>And ſuch in time (if right the Muſe deſcries)</l>
                   <l>Shall this wide realm with tow'ry cities riſe.</l>
                   <l>
-                     <pb n="220" facs="tcp:023246_0227_0FBEEEC0C4C5A248"/>The ſpacious Delaware through future ſong,</l>
+                     <pb n="220" facs="unknown:023246_0227_0FBEEEC0C4C5A248"/>The ſpacious Delaware through future ſong,</l>
                   <l>Shall roll in deathleſs majeſty along;</l>
                   <l>Each grove and mountain ſhall be ſacred made,</l>
                   <l>As now is Cooper's-Hill and Windſor's ſhade.</l>
@@ -11688,7 +11690,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>My neat, but ſimple manſion I would raiſe,</l>
                      <l>Unlike the ſumptuous domes of modern days;</l>
                      <l>
-                        <pb n="221" facs="tcp:023246_0228_0FBEEEB64253DB10"/>Devoid of pomp, with rural plainneſs form'd,</l>
+                        <pb n="221" facs="unknown:023246_0228_0FBEEEB64253DB10"/>Devoid of pomp, with rural plainneſs form'd,</l>
                      <l>With ſavage game, and gloſſy ſhells adorn'd.</l>
                   </lg>
                   <lg>
@@ -11737,7 +11739,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>But white-rob'd Peace, and univerſal Love</l>
                      <l>Smile in the field, and brighten ev'ry grove:</l>
                      <l>
-                        <pb n="222" facs="tcp:023246_0229_0FBEEEC8011E1E18"/>There all the beauties of the circling year,</l>
+                        <pb n="222" facs="unknown:023246_0229_0FBEEEC8011E1E18"/>There all the beauties of the circling year,</l>
                      <l>In native ornamental pride appear.</l>
                      <l>Gay, roſy-boſom'd Spring, and April ſhow'rs,</l>
                      <l>Wake, from the womb of earth, the riſing flow'rs:</l>
@@ -11782,7 +11784,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>He, ſkill'd alike to profit and to pleaſe,</l>
                      <l>Politely talks with unaffected eaſe;</l>
                      <l>
-                        <pb n="223" facs="tcp:023246_0230_0FBEEEC9C0B95168"/>Sage in debate, and faithful to his truſt,</l>
+                        <pb n="223" facs="unknown:023246_0230_0FBEEEC9C0B95168"/>Sage in debate, and faithful to his truſt,</l>
                      <l>Mature in ſcience, and ſeverely juſt;</l>
                      <l>Of ſoul diffuſive, vaſt and unconfin'd,</l>
                      <l>Breathing benevolence to all mankind;</l>
@@ -11828,7 +11830,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>While groves, attentive to th' extatic ſound,</l>
                      <l>Burſt from their roots, and, raptur'd, danc'd around.</l>
                      <l>
-                        <pb n="224" facs="tcp:023246_0231_0FBEEECB3A863D20"/>Such ſeats the venerable ſeers of old</l>
+                        <pb n="224" facs="unknown:023246_0231_0FBEEECB3A863D20"/>Such ſeats the venerable ſeers of old</l>
                      <l>(When bliſsful years in golden circles roll'd)</l>
                      <l>Choſe and admir'd: e'en goddeſſes and gods</l>
                      <l>(As poets feign) were fond of ſuch abodes:</l>
@@ -11875,7 +11877,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Wak'd by thy genial and prolific ray,</l>
                      <l>Nature reſumes her verdure, and looks gay:</l>
                      <l>
-                        <pb n="225" facs="tcp:023246_0232_0FBEEECD32DEF300"/>Freſh blooms the roſe, the drooping plants revive,</l>
+                        <pb n="225" facs="unknown:023246_0232_0FBEEECD32DEF300"/>Freſh blooms the roſe, the drooping plants revive,</l>
                      <l>The groves reflouriſh, and the foreſts live.</l>
                      <l>Deep in the teeming earth, the rip'ning ore</l>
                      <l>Confeſſes thy conſolidating pow'r;</l>
@@ -11923,7 +11925,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Jehovah's glories blaze all nature round,</l>
                      <l>In heaven, on earth, and in the deeps profound;</l>
                      <l>
-                        <pb n="226" facs="tcp:023246_0233_0FBEEECF8D6FCDD8"/>Ambitious of his name, the warblers ſing,</l>
+                        <pb n="226" facs="unknown:023246_0233_0FBEEECF8D6FCDD8"/>Ambitious of his name, the warblers ſing,</l>
                      <l>And praiſe their maker, while they hail the ſpring;</l>
                      <l>The zephyrs breathe it; and the thunders roar,</l>
                      <l>While ſurge to ſurge, and ſhore reſounds to ſhore.</l>
@@ -11968,7 +11970,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>In dreadful majeſty thou fit'ſt enthron'd,</l>
                      <l>With light encircled, and with glory crown'd;</l>
                      <l>
-                        <pb n="227" facs="tcp:023246_0234_0FBEEED3EA009428"/>Thro' all infinitude extends thy reign,</l>
+                        <pb n="227" facs="unknown:023246_0234_0FBEEED3EA009428"/>Thro' all infinitude extends thy reign,</l>
                      <l>For thee, nor heav'n, nor heav'n of heav'ns contain;</l>
                      <l>But tho' thy throne is fix'd above the ſky,</l>
                      <l>Thy omnipreſence fills immenſity.</l>
@@ -12022,7 +12024,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The rubies redden, and the jaſpers burn<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="228" facs="tcp:023246_0235_0FBEEED5080D0130"/>O what, alas! avails the gay attire</l>
+                        <pb n="228" facs="unknown:023246_0235_0FBEEED5080D0130"/>O what, alas! avails the gay attire</l>
                      <l>To wretched man, who breathes but to expire!</l>
                      <l>Oft' on the vileſt, riches are beſtow'd,</l>
                      <l>To ſhow their meanneſs in the fight of God.</l>
@@ -12074,7 +12076,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Glitter in gems, and glory in their ſhame.</l>
                   </lg>
                   <lg>
-                     <pb n="229" facs="tcp:023246_0236_0FBEEED688576040"/>
+                     <pb n="229" facs="unknown:023246_0236_0FBEEED688576040"/>
                      <l>Oft' would I wander thro' the dewy field,</l>
                      <l>Where cluſt'ring roſes balmy fragrance yield;</l>
                      <l>Or in lone grots, for contemplation made,</l>
@@ -12119,7 +12121,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>What muſes dictate, and what poets ſing.—</l>
                      <l>Virgil, as prince, ſhou'd wear the laurel'd crown,</l>
                      <l>
-                        <pb n="230" facs="tcp:023246_0237_0FBEEED85CE3CC38"/>And other bards pay homage to his throne;</l>
+                        <pb n="230" facs="unknown:023246_0237_0FBEEED85CE3CC38"/>And other bards pay homage to his throne;</l>
                      <l>The blood of heroes now effus'd ſo long,</l>
                      <l>Will run forever purple thro' his ſong.</l>
                      <l>See! how he mounts toward the bleſt abodes,</l>
@@ -12164,7 +12166,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>In martial pomp he clothes th' angelic train,</l>
                      <l>While warring myriads ſhake th' etherial plain.</l>
                      <l>
-                        <pb n="231" facs="tcp:023246_0238_0FBEEEDA54998388"/>Firſt Michael ſtalks, high tow'ring o'er the reſt,</l>
+                        <pb n="231" facs="unknown:023246_0238_0FBEEEDA54998388"/>Firſt Michael ſtalks, high tow'ring o'er the reſt,</l>
                      <l>With heav'nly plumage nodding on his creſt:</l>
                      <l>Impenetrable arms his limbs infold.</l>
                      <l>Eternal adamant, and burning gold!</l>
@@ -12211,7 +12213,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Next ſhould appear great Dryden's lofty muſe,</l>
                      <l>For who would Dryden's poliſh'd verſe refuſe?</l>
                      <l>
-                        <pb n="232" facs="tcp:023246_0239_0FBEEEDBC7111500"/>His lips were moiſten'd in Parnaſſus' ſpring,</l>
+                        <pb n="232" facs="unknown:023246_0239_0FBEEEDBC7111500"/>His lips were moiſten'd in Parnaſſus' ſpring,</l>
                      <l>And Pho<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>bus taught his laureat ſon to ſing.</l>
@@ -12258,7 +12260,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Sagacious Locke, by Providence deſign'd,</l>
                      <l>T' exalt, inſtruct, and rectify the mind.</l>
                      <l>
-                        <pb n="233" facs="tcp:023246_0240_0FBEEEDD416112B8"/>Th' unconquerable ſage<note n="*" place="bottom">Cato.</note> whom virtue fir'd,</l>
+                        <pb n="233" facs="unknown:023246_0240_0FBEEEDD416112B8"/>Th' unconquerable ſage<note n="*" place="bottom">Cato.</note> whom virtue fir'd,</l>
                      <l>And from the tyrant's lawleſs rage retir'd,</l>
                      <l>When victor Caeſar freed unhappy Rome</l>
                      <l>From Pompey's chains, to ſubſtitute his own.</l>
@@ -12301,7 +12303,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>All earth exulted on the nuptial hour,</l>
                      <l>And voluntary roſes deck'd the bow'r;</l>
                      <l>
-                        <pb n="234" facs="tcp:023246_0241_0FBEEEDFC1BCE688"/>The joyous birds on ev'ry bloſſom'd ſpray,</l>
+                        <pb n="234" facs="unknown:023246_0241_0FBEEEDFC1BCE688"/>The joyous birds on ev'ry bloſſom'd ſpray,</l>
                      <l>Sung hymeneans to th' important day,</l>
                      <l>While Philomela ſwell'd the ſpouſal ſong,</l>
                      <l>And Paradiſe with gratulation rung.</l>
@@ -12352,7 +12354,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Two paint their cheeks, and round their temples pour</l>
                      <l>The fragrant unguent, and th' ambroſial ſhow'r;</l>
                      <l>
-                        <pb n="235" facs="tcp:023246_0242_0FBEEEE0FB1AD818"/>One pulls the ſhape-creating ſtays; and one</l>
+                        <pb n="235" facs="unknown:023246_0242_0FBEEEE0FB1AD818"/>One pulls the ſhape-creating ſtays; and one</l>
                      <l>Encircles round her waiſt the golden zone;</l>
                      <l>Not with more toil t' improve immortal charms,</l>
                      <l>Strove Juno, Venus, and the queen of arms,</l>
@@ -12395,7 +12397,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The fop's impertinence ſhe ſhould deſpiſe,</l>
                      <l>Tho' ſorely wounded by her radiant eyes;</l>
                      <l>
-                        <pb n="236" facs="tcp:023246_0243_0FBEEEE4D704CE98"/>But pay due rev'rence to th' exalted mind,</l>
+                        <pb n="236" facs="unknown:023246_0243_0FBEEEE4D704CE98"/>But pay due rev'rence to th' exalted mind,</l>
                      <l>By learning poliſh'd, and by wit refin'd,</l>
                      <l>Who all her virtues, without guile, commends,</l>
                      <l>And all her faults as freely reprehends.</l>
@@ -12444,7 +12446,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                   </lg>
                </div>
                <div type="poem">
-                  <pb n="237" facs="tcp:023246_0244_0FBEEEE661CA4C90"/>
+                  <pb n="237" facs="unknown:023246_0244_0FBEEEE661CA4C90"/>
                   <head>SKETCHES OF AMERICAN HISTORY. FRENEAU.</head>
                   <lg>
                      <l>THE American world, as our hiſtories ſay,</l>
@@ -12488,7 +12490,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Years, borne by the ſeaſons, had vaniſh'd away,</l>
                      <l>Since the babe in the manger at Bethlehem lay.</l>
                      <l>
-                        <pb n="238" facs="tcp:023246_0245_0FBEEEE93984CEC8"/>What an era was this, above all that had paſs'd,</l>
+                        <pb n="238" facs="unknown:023246_0245_0FBEEEE93984CEC8"/>What an era was this, above all that had paſs'd,</l>
                      <l>To yield ſuch a treaſure, diſcover'd at laſt—</l>
                      <l>A new world, in value exceeding the old,</l>
                      <l>Such mountains of ſilver, ſuch torrents of gold!</l>
@@ -12533,7 +12535,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>The bounds I preſcribe to my verſe are too narrow,</l>
                      <l>To tell of the conqueſts of Francis Pizarro;</l>
                      <l>
-                        <pb n="239" facs="tcp:023246_0246_0FBEEEEE3882EF28"/>And Cortez 'tis needleſs to bring into view,</l>
+                        <pb n="239" facs="unknown:023246_0246_0FBEEEEE3882EF28"/>And Cortez 'tis needleſs to bring into view,</l>
                      <l>One Mexico conquer'd, the other Peru.</l>
                      <l>Montezuma with credit in verſe might be read,</l>
                      <l>But Dryden has told you the monarch <note n="†" place="bottom">Indian emperor, a tragedy.</note>is dead!</l>
@@ -12576,7 +12578,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>And murder'd them all without notice or warning,</l>
                      <l>Ralph Lane with his vagabonds, ſcarcely returning</l>
                      <l>
-                        <pb n="240" facs="tcp:023246_0247_0FBEEEF06A7A4868"/>In the reign of king James (and the firſt of the name)</l>
+                        <pb n="240" facs="unknown:023246_0247_0FBEEEF06A7A4868"/>In the reign of king James (and the firſt of the name)</l>
                      <l>George Summers with Hacluit to Cheſapeake came,</l>
                      <l>Where far in the foreſts, not doom'd to renown,</l>
                      <l>On the river Powhatan <note n="*" place="bottom">James river, Virginia.</note> they built the firſt town. <note n="†" place="bottom">James Town.</note>
@@ -12618,7 +12620,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>A ſtove in their churches, or pews lin'd with green,</l>
                      <l>Were horrid to think of, much more to be ſeen.</l>
                      <l>
-                        <pb n="241" facs="tcp:023246_0248_0FBEEEF184563AC0"/>Their bodies were warm'd with the linings of love,</l>
+                        <pb n="241" facs="unknown:023246_0248_0FBEEEF184563AC0"/>Their bodies were warm'd with the linings of love,</l>
                      <l>And the ſire was ſufficient that flaſh'd from above.</l>
                      <l>'Twas a crime to aſſert, that the moon was opaque;</l>
                      <l>To ſay the earth mov'd, was to merit the ſtake;</l>
@@ -12665,7 +12667,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Ah, pity the wretches that liv'd in thoſe days,</l>
                      <l>(Ye modern admirers of novels and plays)</l>
                      <l>
-                        <pb n="242" facs="tcp:023246_0249_0FBEEEF3681F31C8"/>When nothing was ſuffer'd but muſty, dull rules,</l>
+                        <pb n="242" facs="unknown:023246_0249_0FBEEEF3681F31C8"/>When nothing was ſuffer'd but muſty, dull rules,</l>
                      <l>And nonſenſe from Mather, and ſtaff from the ſchools.</l>
                      <l>No ſtory, could tempt them, like Rachel's, to ſigh,</l>
                      <l>Suſannah and Judith employ'd the bright eye—</l>
@@ -12708,7 +12710,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>In war with the foremoſt their ſtandards diſplay,</l>
                      <l>Or glut the loud cannon with death, for the fray.</l>
                      <l>
-                        <pb n="243" facs="tcp:023246_0250_0FBEEEF53A922018"/>No valour, in fable, their valour exceeds,</l>
+                        <pb n="243" facs="unknown:023246_0250_0FBEEEF53A922018"/>No valour, in fable, their valour exceeds,</l>
                      <l>Their ſpirits are fitted for deſperate deeds;</l>
                      <l>No rivals have they in our annals of fame,</l>
                      <l>Or if they are rivall'd, 'tis York has the claim.</l>
@@ -12752,7 +12754,7 @@ his addreſs to the armies of the united ſtates—and his poem on the happineſ
                      <l>Made the argument perfectly plain to Mynheer—</l>
                      <l>Force ended the conteſt—the right was a ſham,</l>
                      <l>
-                        <pb n="244" facs="tcp:023246_0251_0FBEEEF7536E3A58"/>And the Dutch were ſent packing to hot Surinam.</l>
+                        <pb n="244" facs="unknown:023246_0251_0FBEEEF7536E3A58"/>And the Dutch were ſent packing to hot Surinam.</l>
                      <l>'Twas hard to be thus of their lab<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> 
